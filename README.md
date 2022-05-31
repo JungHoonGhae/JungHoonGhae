@@ -1,14 +1,16 @@
 <p>
-  <a href="mailto:junghoon0112@gmail.com" target="_blank"><img src="https://img.shields.io/badge/junghoon0112@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:junghoon0112@gmail.com" target="_blank"><img src="https://img.shields.io/badge/MAIL ME-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ### 👋 Hi there! I'm alex ghae
 
 <p>
-  I'm <b>a Frontend web developer</b> skilled in WEB interative UI development.🚀<br/>
-  I am familiar with development based on Agile development methodology.<br/>
+  I'm <b>a Frontend web developer from South Korea 🇰🇷</b>
+  I'm skilled in WEB interative UI development.🚀<br/>
+  I'm familiar with development based on Agile development methodology.<br/>
   I love react and vue and learning new tech stuff 🙃<br/>
-  I always want to build new stuff so that could make this world a little bit better place than before! <br/><br/>
+  I always want to build new stuff so that could make this world a little bit better place than before! br/>
+  If you want to contact me, please leave me a message!<br/><br/>
 </p>
 
 ### 💻 Tech Stacks
