@@ -10,30 +10,6 @@
   I always want to build something that could make this world a little bit better place than before! <br/><br/>
 </p>
 
--사용중인 기술 스택
-프론트: React js, Html, Css, Sass, jQuery, jsp<br/>
-백엔드: Java, Node js, Spring Boot<br/>
-DB: MySQL, Maria db, MongoDB<br/>
-협업툴: Slack, Jira, Gsuite, Notion, Github, Google workspace<br/>
-데브옵스: AWS, AZURE, NICE PAY, KAKAO(로그인), NAVER(로그인), GOOGLE(로그인)
-
-[ 기술 스택 ]   
-Next.js, React, TypeScript, Styled-component. 
-
-[ Language | Framework ]
-Node.js (Express.js) , Python (FastAPI) 
-HTML | CSS | JavaScript | Typescript
-Next.js | React | Redux
-SCSS, Styled-components
-
-[ Build / Deploy ]
-Jest, react-testing-library
-Github Actions
-
-[ Infrastructures ]
-• Kubernetes, Docker
-• AWS ( S3, EC2 )
-
 ### 💪 Tech stack
 #### [ Language | Framework ]
 <p>
