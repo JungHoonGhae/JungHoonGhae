@@ -5,7 +5,7 @@
 ### 👋 Hi there! I'm alex ghae
 
 <p>
-  I'm <b>a Frontend web developer</b> skilled in API, WEB development.🚀<br/>
+  I'm <b>a Frontend web developer</b> skilled in WEB interative UI development.🚀<br/>
   I am familiar with development based on Agile development methodology.<br/>
   I love react and vue and learning new tech stuff 🙃<br/>
   I always want to build new stuff so that could make this world a little bit better place than before! <br/><br/>
