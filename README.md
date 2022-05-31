@@ -7,6 +7,7 @@
 <p>
   I'm <b>a Frontend web developer</b> skilled in API, WEB.🚀<br/>
   I have 3 years of web development experience.<br/>
+  I am familiar with development based on Agile development methodology.<br/>
   I love react and vue and learning new tech stuff 🙃<br/>
   I always want to build new stuff so that could make this world a little bit better place than before! <br/><br/>
 </p>
