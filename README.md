@@ -27,10 +27,13 @@
 </p>
 
 #### [ Build / Deploy ]
-Jest, react-testing-library
-Github Actions
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=Github-Actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react testing library-E33332?style=flat-square&logo=Testing-Library&logoColor=white"/>
+</p>
 
-#### [ DevOps ]
+#### [ DevOps | Infrastructures ]
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
