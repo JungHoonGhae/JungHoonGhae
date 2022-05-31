@@ -11,7 +11,7 @@
   I always want to build new stuff so that could make this world a little bit better place than before! <br/><br/>
 </p>
 
-### 💪 Tech stacks
+### 💪 Skills
 #### [ Languages | Frameworks ]
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
