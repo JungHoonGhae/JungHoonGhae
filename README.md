@@ -7,7 +7,7 @@
   I have 3 years of web development experience.<br/>
   I love react and vue 🙃
   I enjoy swimming, dive and surf. ⛰ 🏄<br/>
-  I always want to build something that could make the world a little bit better place than before! <br/><br/>
+  I always want to build something that could make this world a little bit better place than before! <br/><br/>
 </p>
 
 ### 💪 Skills
