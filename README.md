@@ -9,8 +9,8 @@
 <!-- ![](https://hit.yhype.me/github/profile?user_id=1849174) -->
   
   
-  <a href="mailto:junghoon0112@gmail.com" target="_blank"><img src="https://img.shields.io/badge/MAIL ME-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
+<!--   <a href="mailto:junghoon0112@gmail.com" target="_blank"><img src="https://img.shields.io/badge/MAIL ME-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p> -->
 
 ### 👋 Hi there! I'm alex ghae
 
