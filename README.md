@@ -2,7 +2,7 @@
   <a href="mailto:junghoon0112@gmail.com" target="_blank"><img src="https://img.shields.io/badge/junghoon0112@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-### 👋Hi there! I'm alex ghae
+### 👋 Hi there! I'm alex ghae
 
 <p>
   I'm <b>a Frontend web developer</b> skilled in API, WEB development.🚀<br/>
@@ -11,7 +11,7 @@
   I always want to build new stuff so that could make this world a little bit better place than before! <br/><br/>
 </p>
 
-### 💪 Tech Stacks
+### 💻 Tech Stacks
 #### [ Languages | Frameworks ]
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
