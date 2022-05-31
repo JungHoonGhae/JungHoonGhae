@@ -2,16 +2,17 @@
   <a href="mailto:junghoon0112@gmail.com" target="_blank"><img src="https://img.shields.io/badge/junghoon0112@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
+### 👋Hi there! I'm alex ghae
+
 <p>
-  👋&nbsp; Hi there! I'm <b>a Frontend web developer</b> skilled in API, WEB.🚀<br/>
+  I'm <b>a Frontend web developer</b> skilled in API, WEB.🚀<br/>
   I have 3 years of web development experience.<br/>
-  I love react and vue 🙃
-  I enjoy swimming, dive and surf. ⛰ 🏄<br/>
-  I always want to build something that could make this world a little bit better place than before! <br/><br/>
+  I love react and vue and learning new tech stuff 🙃<br/>
+  I always want to build new stuff so that could make this world a little bit better place than before! <br/><br/>
 </p>
 
 ### 💪 Tech stack
-#### [ Language | Framework ]
+#### [ Languages | Frameworks ]
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=black"/>
