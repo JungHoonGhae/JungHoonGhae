@@ -1,14 +1,3 @@
-### 👋 Hi there! I'm alex ghae
-
-<p>
-  I'm <b>a Frontend web developer from South Korea 🇰🇷</br>
-  I'm skilled in WEB interative UI development.🚀<br/>
-  I'm familiar with development based on Agile development methodology.<br/>
-  I love react and vue and learning new techonogy 🙃<br/>
-  I always want to build new stuff so that could make this world a little bit better place than before! <br/>
-  If you want to contact me, please leave me a message!<br/><br/>
-</p>
-
 ### 💻 Tech Stacks
 #### [ Languages | Frameworks ]
 <p>
