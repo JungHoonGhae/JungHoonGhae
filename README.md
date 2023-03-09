@@ -13,7 +13,7 @@
 </p>
 
 
-#### [ Build / Deploy ]
+#### [ Testing / Build / Deploy ]
 <p>
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=Github-Actions&logoColor=white"/>
