@@ -22,21 +22,24 @@
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=Material-UI&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-FF0080?style=flat-square&logo=Framer&logoColor=white)
 
-### Testing | Build | Deploy
+### Testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-E33332?style=flat-square&logo=Testing-Library&logoColor=white)
 
-### Linting | Formatting
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=black)
-![Husky](https://img.shields.io/badge/Husky-FF4081?style=flat-square)
+### Build | Deploy
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white)
 
 ### DevOps | Infrastructures
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+
+### Linting | Formatting
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=black)
+![Husky](https://img.shields.io/badge/Husky-FF4081?style=flat-square)
 
 ### Collaboration Tools
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
