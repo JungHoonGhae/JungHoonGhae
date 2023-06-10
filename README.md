@@ -51,12 +51,14 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white)
 
-<br/><br/>
+<br/>
 
 ## 📫 Contact Me
 Feel free to reach out to me through the following channels:
 - LinkedIn: [profile](https://www.linkedin.com/in/lucas-g-524b3a110/)
 - Email: [email me](mailto:junghoon0112@gmail.com)
+
+<br/>
 
 <p>
   <a href="https://github.com/JungHoonGhae/github-profile-views-counter">
