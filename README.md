@@ -55,7 +55,7 @@
 
 ## 📫 Contact Me
 Feel free to reach out to me through the following channels:
-- LinkedIn: [profile](https://www.linkedin.com/in/lucas-g-524b3a110/)
+- LinkedIn: [profile](https://www.linkedin.com/in/lucas-ghae/)
 - Email: [email me](mailto:junghoon0112@gmail.com)
 
 <br/>
