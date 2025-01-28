@@ -39,7 +39,7 @@ Let’s connect. 💥
   <img style="margin: 8px 8px 0 0" src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/>
   <img style="margin: 8px 8px 0 0" src="https://skillicons.dev/icons?i=notion" alt="notion"/>
   <img style="margin: 8px 8px 0 0" src="https://skillicons.dev/icons?i=npm" alt="npm"/>
-  <img style="margin: 8px 8px 0 0" src="https://skillicons.dev/icons?i=burn" alt="burn"/>
+  <img style="margin: 8px 8px 0 0" src="https://skillicons.dev/icons?i=pnpm" alt="pnpm"/>
   <img style="margin: 8px 8px 0 0" src="https://skillicons.dev/icons?i=ps" alt="ps"/>
   <img style="margin: 8px 8px 0 0" src="https://skillicons.dev/icons?i=postman" alt="postman"/>
   <img style="margin: 8px 8px 0 0" src="https://skillicons.dev/icons?i=react" alt="react"/>
