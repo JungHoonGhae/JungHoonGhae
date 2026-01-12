@@ -10,5 +10,3 @@ Clean architecture, modular systems, and decisions that hold up over time — th
 Let's connect. 💥
 
 <br/>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungHoonGhae&theme=dark&show_icons=false&hide_border=true&layout=compact&hide_title=true&bg_color=00000000" alt="most used languages" width="360px" style="margin-bottom: 8px" />
