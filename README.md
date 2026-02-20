@@ -5,7 +5,17 @@
 
 I build software meant to evolve, not just ship.
 
-Clean architecture, modular systems, and decisions that hold up over time. I work across web, mobile, and infrastructure. Recently been building AI agent systems and tools.
+## 💡 Philosophy
+
+> "Start with CLI. Solve YOUR problem. Ship in days, not months."
+
+Influenced by [steipete](https://github.com/steipete)'s approach to building:
+
+- **CLI-First** — If it needs UI to be useful, question it. If it can be CLI, ship it.
+- **Solve YOUR Problem** — Build what you need, then share it.
+- **One Thing Well** — Can't explain in 2 sentences? Too complex.
+- **Fast Iteration** — Days, not months. Overthinking kills projects.
+- **Ecosystem Thinking** — Small focused tools > monolithic platforms.
 
 ## 🚀 Projects
 
