@@ -31,7 +31,7 @@ Influenced by [steipete](https://github.com/steipete) and [DHH](https://world.he
 
 ## Tech
 
-TypeScript · Python · Node.js · React · Next.js · Swift · Go · PostgreSQL · Redis · Vercel · AWS · Docker · AI/LLM · RAG · MCP
+AI/LLM · RAG · MCP · TypeScript · Python · Node.js · React · Next.js · Swift · Go · PostgreSQL · Redis · Vercel · AWS · Docker
 
 ---
 
