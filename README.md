@@ -31,7 +31,7 @@ Influenced by [steipete](https://github.com/steipete) and [DHH](https://world.he
 
 ## Tech
 
-AI/LLM · RAG · MCP · TypeScript · Python · Node.js · React · Next.js · Swift · Go · PostgreSQL · Redis · Vercel · AWS · Docker
+AI/LLM · RAG · MCP · LangChain · Anthropic SDK · OpenAI SDK · Function Calling · Structured Outputs · Vector Search · Claude Code · Bun · Hono · FastAPI · Drizzle ORM · Turso · Neon · Vercel Edge · Cloudflare Workers · Biome · Playwright · Zod
 
 ---
 
