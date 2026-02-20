@@ -28,7 +28,9 @@ Influenced by [steipete](https://github.com/steipete) and [DHH](https://world.he
 
 **[discord-admin-py](https://github.com/JungHoonGhae/discord-admin-py)** — Discord admin via inference.sh
 
-TypeScript. Python. Vercel. AI tooling.
+## Tech
+
+TypeScript · Python · Node.js · React · Next.js · Swift · Go · PostgreSQL · Redis · Vercel · AWS · Docker · AI/LLM · RAG · MCP
 
 ---
 
