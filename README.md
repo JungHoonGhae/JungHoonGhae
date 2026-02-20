@@ -2,6 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/JungHoonGhae?style=flat-square&logo=github&labelColor=black&color=24292f)](https://github.com/JungHoonGhae)
 [![X Follow](https://img.shields.io/badge/Follow-%40lucas_ghae-000000?style=flat-square&logo=x&labelColor=black)](https://x.com/lucas_ghae)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/junghoonghae/)
 
 I build things that work. Then I make them work better.
 
@@ -34,7 +35,7 @@ TypeScript · Python · Node.js · React · Next.js · Swift · Go · PostgreSQL
 
 ---
 
-[github](https://github.com/JungHoonGhae) · [twitter](https://x.com/lucas_ghae)
+[github](https://github.com/JungHoonGhae) · [twitter](https://x.com/lucas_ghae) · [linkedin](https://www.linkedin.com/in/junghoonghae/)
 
 <a href="https://www.buymeacoffee.com/lucas.ghae">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40">
