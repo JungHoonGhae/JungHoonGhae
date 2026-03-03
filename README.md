@@ -29,7 +29,7 @@ Influenced by [steipete](https://github.com/steipete) and [DHH](https://world.he
 
 ## Tech
 
-Rust · Tauri · AI/LLM · RAG · MCP · Anthropic SDK · OpenAI SDK · Function Calling · Structured Outputs · Vector Search · Claude Code · Bun · Hono · FastAPI · Drizzle ORM · Turso · Neon · Vercel Edge · Cloudflare Workers · Biome · Playwright · Zod
+Rust · Python · TypeScript · Bun · Tauri · MCP · Claude Code · Anthropic SDK · Hono · FastAPI
 
 ---
 
