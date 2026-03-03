@@ -19,19 +19,19 @@ Influenced by [steipete](https://github.com/steipete) and [DHH](https://world.he
 
 ## What I'm working on
 
-**[skills](https://github.com/JungHoonGhae/skills)** — AI agent skills for Claude Code, OpenCode
+**[capx](https://github.com/JungHoonGhae/capx)** — unofficial CLI for Capacities.io — full read/write access the official API doesn't have
 
-**[skills-badge](https://github.com/JungHoonGhae/skills-badge)** — SVG badges for skills.sh
+**[openkakao](https://github.com/JungHoonGhae/openkakao)** — unofficial CLI for KakaoTalk — read chats, friends, and profiles on macOS
+
+**[peekachu](https://github.com/JungHoonGhae/peekachu)** — KakaoTalk relationship insights desktop app (Tauri + React)
+
+**[skills](https://github.com/JungHoonGhae/skills)** — AI agent skills for Claude Code, OpenCode
 
 **[oh-my-lilys](https://github.com/JungHoonGhae/oh-my-lilys)** — CLI to summarize YouTube, PDFs, websites
 
-**[opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)** — Kilo Gateway plugin (342+ models)
-
-**[discord-admin-py](https://github.com/JungHoonGhae/discord-admin-py)** — Discord admin via inference.sh
-
 ## Tech
 
-AI/LLM · RAG · MCP · LangChain · Anthropic SDK · OpenAI SDK · Function Calling · Structured Outputs · Vector Search · Claude Code · Bun · Hono · FastAPI · Drizzle ORM · Turso · Neon · Vercel Edge · Cloudflare Workers · Biome · Playwright · Zod
+Rust · Tauri · AI/LLM · RAG · MCP · Anthropic SDK · OpenAI SDK · Function Calling · Structured Outputs · Vector Search · Claude Code · Bun · Hono · FastAPI · Drizzle ORM · Turso · Neon · Vercel Edge · Cloudflare Workers · Biome · Playwright · Zod
 
 ---
 
