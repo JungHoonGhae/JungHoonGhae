@@ -23,8 +23,6 @@ Influenced by [steipete](https://github.com/steipete) and [DHH](https://world.he
 
 **[openkakao](https://github.com/JungHoonGhae/openkakao)** — unofficial CLI for KakaoTalk — read chats, friends, and profiles on macOS
 
-**[peekachu](https://github.com/JungHoonGhae/peekachu)** — KakaoTalk relationship insights desktop app (Tauri + React)
-
 **[skills](https://github.com/JungHoonGhae/skills)** — AI agent skills for Claude Code, OpenCode
 
 **[oh-my-lilys](https://github.com/JungHoonGhae/oh-my-lilys)** — CLI to summarize YouTube, PDFs, websites
