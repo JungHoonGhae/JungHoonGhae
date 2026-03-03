@@ -8,14 +8,12 @@ Building CLI tools and AI-powered automation. Based in Korea.
 
 ## Philosophy
 
-Influenced by [steipete](https://github.com/steipete) and [DHH](https://world.hey.com/dhh):
+Every project here started the same way — something didn't exist, or existed but didn't do what I needed. So I built it.
 
-- Start with CLI. If it needs a UI, rethink it.
-- Build what you need. Then share it.
-- Two sentences or less. Can't explain it that simply? Too complicated.
-- Days, not months. Overthinking kills more projects than bad code.
-- Constraints are good. Infinite time and resources don't make better software.
-- Boring code beats clever code. Stable and predictable wins.
+- If the API is broken, use the internal one.
+- Terminal first. UI is a decision you make later.
+- One problem per tool. Scope creep is how projects die.
+- Ship in days. Months means you're planning, not building.
 
 ## What I'm working on
 
