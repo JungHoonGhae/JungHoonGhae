@@ -6,7 +6,7 @@
 
 I build tools I actually use — then share them when they work.
 
-## Philosophy
+## How I work
 
 - Scratch your own itch. Imagined problems don't ship.
 - Small tools that do one thing, each a building block.
