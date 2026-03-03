@@ -4,7 +4,7 @@
 [![X Follow](https://img.shields.io/badge/Follow-%40lucas_ghae-000000?style=flat-square&logo=x&labelColor=black)](https://x.com/lucas_ghae)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/junghoonghae/)
 
-I build for the gaps — where the official API ends, where the app does something the docs don't mention.
+I build CLI tools for services that should have them, and infrastructure for AI-powered dev workflows.
 
 ## Philosophy
 
