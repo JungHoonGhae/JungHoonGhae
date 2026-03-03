@@ -4,14 +4,14 @@
 [![X Follow](https://img.shields.io/badge/Follow-%40lucas_ghae-000000?style=flat-square&logo=x&labelColor=black)](https://x.com/lucas_ghae)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/junghoonghae/)
 
-If something is harder than it should be, I build the missing piece.
+I build tools I actually use — then share them when they work.
 
 ## Philosophy
 
+- Scratch your own itch. Imagined problems don't ship.
+- Small tools that do one thing, each a building block.
 - Unnecessary friction? Remove it.
-- One thing per tool, done well.
-- The simplest interface that works.
-- Ship in days.
+- Ship this week. Iterate from there.
 
 ## What I'm working on
 
