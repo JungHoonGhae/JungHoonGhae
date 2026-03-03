@@ -25,12 +25,13 @@ I build tools I actually use — then share them when they work.
 
 ## Stack
 
-| | |
-|---|---|
-| **Languages** | Rust · Python · TypeScript |
-| **AI & Agents** | Anthropic SDK · MCP · Claude Code |
-| **Backend** | FastAPI · Hono · Bun |
-| **Desktop** | Tauri |
+**Languages** — Rust · Python · TypeScript
+
+**AI & Agents** — Anthropic SDK · MCP · Claude Code
+
+**Backend** — FastAPI · Hono · Bun
+
+**Desktop** — Tauri
 
 ---
 
