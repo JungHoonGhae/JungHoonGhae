@@ -4,16 +4,14 @@
 [![X Follow](https://img.shields.io/badge/Follow-%40lucas_ghae-000000?style=flat-square&logo=x&labelColor=black)](https://x.com/lucas_ghae)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/junghoonghae/)
 
-Building CLI tools and AI-powered automation. Based in Korea.
+I build for the gaps — where the official API ends, where the app does something the docs don't mention.
 
 ## Philosophy
 
-Every project here started the same way — something didn't exist, or existed but didn't do what I needed. So I built it.
-
-- If the API is broken, use the internal one.
-- Terminal first. UI is a decision you make later.
-- One problem per tool. Scope creep is how projects die.
-- Ship in days. Months means you're planning, not building.
+- No API? Use the internal one.
+- Terminal first. UI is a decision for later.
+- One thing per tool.
+- Ship in days.
 
 ## What I'm working on
 
@@ -35,8 +33,6 @@ Every project here started the same way — something didn't exist, or existed b
 | **Desktop** | Tauri |
 
 ---
-
-[github](https://github.com/JungHoonGhae) · [twitter](https://x.com/lucas_ghae) · [linkedin](https://www.linkedin.com/in/junghoonghae/)
 
 <a href="https://www.buymeacoffee.com/lucas.ghae">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40">
