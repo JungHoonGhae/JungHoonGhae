@@ -4,9 +4,9 @@
 [![X Follow](https://img.shields.io/badge/Follow-%40lucas_ghae-000000?style=flat-square&logo=x&labelColor=black)](https://x.com/lucas_ghae)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/junghoonghae/)
 
-I build things that work. Then I make them work better.
+Building CLI tools and AI-powered automation. Based in Korea.
 
-## How I build
+## Philosophy
 
 Influenced by [steipete](https://github.com/steipete) and [DHH](https://world.hey.com/dhh):
 
@@ -27,9 +27,14 @@ Influenced by [steipete](https://github.com/steipete) and [DHH](https://world.he
 
 **[oh-my-lilys](https://github.com/JungHoonGhae/oh-my-lilys)** — CLI to summarize YouTube, PDFs, websites
 
-## Tech
+## Stack
 
-Rust · Python · TypeScript · Bun · Tauri · MCP · Claude Code · Anthropic SDK · Hono · FastAPI
+| | |
+|---|---|
+| **Languages** | Rust · Python · TypeScript |
+| **AI & Agents** | Anthropic SDK · MCP · Claude Code |
+| **Backend** | FastAPI · Hono · Bun |
+| **Desktop** | Tauri |
 
 ---
 
