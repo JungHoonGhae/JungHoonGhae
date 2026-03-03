@@ -27,11 +27,13 @@ I build tools I actually use — then share them when they work.
 
 **Languages** — Rust · Python · TypeScript
 
-**AI & Agents** — Anthropic SDK · MCP · Claude Code
+**AI & Agents** — Claude Code · Anthropic SDK · MCP · Agent SDK · LiteLLM
 
-**Backend** — FastAPI · Hono · Bun
+**Backend** — Hono · FastAPI · Bun · Cloudflare Workers
 
 **Desktop** — Tauri
+
+**Tooling** — uv · Ruff · Cargo · Biome
 
 ---
 
