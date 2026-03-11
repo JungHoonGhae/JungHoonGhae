@@ -19,6 +19,8 @@ I build tools I actually use — then share them when they work.
 
 **[openkakao](https://github.com/JungHoonGhae/openkakao)** — unofficial CLI for KakaoTalk — read chats, friends, and profiles on macOS
 
+**[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** — unofficial CLI for Toss Securities — accounts, quotes, and beta order flows from the terminal
+
 **[skills](https://github.com/JungHoonGhae/skills)** — AI agent skills for Claude Code, OpenCode
 
 **[oh-my-lilys](https://github.com/JungHoonGhae/oh-my-lilys)** — CLI to summarize YouTube, PDFs, websites
