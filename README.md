@@ -24,18 +24,6 @@ I build tools I actually use — then share them when they work.
 
 **[oh-my-lilys](https://github.com/JungHoonGhae/oh-my-lilys)** — CLI to summarize YouTube, PDFs, websites
 
-## Stack
-
-**Languages** — Rust · Python · TypeScript
-
-**AI & Agents** — Claude Code · Anthropic SDK · MCP · Agent SDK · LiteLLM
-
-**Backend** — Hono · FastAPI · Bun · Cloudflare Workers
-
-**Desktop** — Tauri
-
-**Tooling** — uv · Ruff · Cargo · Biome
-
 ---
 
 <a href="https://www.buymeacoffee.com/lucas.ghae">
