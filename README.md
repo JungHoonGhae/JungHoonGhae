@@ -14,12 +14,11 @@ I build tools I actually use — then share them when they work.
 - Ship this week. Iterate from there.
 
 ## What I'm working on
-
-**[capx](https://github.com/JungHoonGhae/capx)** — unofficial CLI for Capacities.io — full read/write access the official API doesn't have
+**[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** — unofficial CLI for Toss Securities — accounts, quotes, and beta order flows from the terminal
 
 **[openkakao](https://github.com/JungHoonGhae/openkakao)** — unofficial CLI for KakaoTalk — read chats, friends, and profiles on macOS
 
-**[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** — unofficial CLI for Toss Securities — accounts, quotes, and beta order flows from the terminal
+**[capx](https://github.com/JungHoonGhae/capx)** — unofficial CLI for Capacities.io — full read/write access the official API doesn't have
 
 **[skills](https://github.com/JungHoonGhae/skills)** — AI agent skills for Claude Code, OpenCode
 
