@@ -1,7 +1,5 @@
 ## Hi 👋, I'm JungHoon
 
-[![GitHub followers](https://img.shields.io/github/followers/JungHoonGhae?style=flat-square&logo=github&labelColor=black&color=24292f)](https://github.com/JungHoonGhae)
-[![X Follow](https://img.shields.io/badge/Follow-%40lucas_ghae-000000?style=flat-square&logo=x&labelColor=black)](https://x.com/lucas_ghae)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/junghoonghae/)
 
 I build tools I actually use — then share them when they work.
