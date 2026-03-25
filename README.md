@@ -31,6 +31,10 @@ understanding what's actually on the wire, not what the abstraction says is ther
 
 ---
 
+![](https://github-readme-stats.vercel.app/api?username=JungHoonGhae&show_icons=true&hide=contribs,issues,prs&hide_rank=true&theme=default&hide_border=true)
+
+---
+
 <a href="https://www.buymeacoffee.com/lucas.ghae">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40">
 </a>
