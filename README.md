@@ -17,17 +17,17 @@ Security, reverse engineering, building open interfaces for closed systems —
 it all starts from the same place:
 understanding what's actually on the wire, not what the abstraction says is there.
 
-## What I build
+## What I'm working on
 
-| Project | Stars | What |
-|---------|-------|------|
-| [tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli) | ⭐ 171 | Toss Securities from terminal — reverse-engineered web sessions, full trade flow (Go) |
-| [openkakao](https://github.com/JungHoonGhae/openkakao) | ⭐ 37 | KakaoTalk CLI — LOCO protocol, AES-128-GCM, real-time messaging (Rust) |
-| [claude-statusline](https://github.com/JungHoonGhae/claude-statusline) | ⭐ 20 | Rich statusline for Claude Code — context, rate limits, cost (Shell) |
-| [opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth) | ⭐ 14 | Kilo Gateway plugin — 342+ AI models in OpenCode (TypeScript) |
-| [capacities-cli](https://github.com/JungHoonGhae/capacities-cli) | | Capacities.io full CRUD — reverse-engineered Portal API (Rust) |
-| [tailbar](https://github.com/JungHoonGhae/tailbar) | | Tailscale menu bar for macOS (Swift) |
-| [skills](https://github.com/JungHoonGhae/skills) | | AI agent skills for Claude Code & OpenCode (Python) |
+**[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** — unofficial CLI for Toss Securities — reverse-engineered web sessions, accounts, quotes, and order flows from the terminal
+
+**[openkakao](https://github.com/JungHoonGhae/openkakao)** — unofficial CLI for KakaoTalk — LOCO protocol, real-time messaging, webhooks on macOS
+
+**[capacities-cli](https://github.com/JungHoonGhae/capacities-cli)** — unofficial CLI for Capacities.io — full CRUD via reverse-engineered Portal API
+
+**[claude-statusline](https://github.com/JungHoonGhae/claude-statusline)** — rich statusline for Claude Code — context, rate limits, cost tracking
+
+**[skills](https://github.com/JungHoonGhae/skills)** — AI agent skills for Claude Code, OpenCode
 
 ---
 
