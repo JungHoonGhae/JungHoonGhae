@@ -1,26 +1,33 @@
-## Hi 👋, I'm JungHoon
+## Lucas Ghae
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/junghoonghae/)
+[![X](https://img.shields.io/badge/Follow-%40lucas__ghae-000000?style=flat-square&logo=x&labelColor=black)](https://x.com/lucas_ghae)
 
-I build tools I actually use — then share them when they work.
+The world is adding abstraction faster than anyone can understand it.
+AI writes code nobody owns. Frameworks wrap frameworks.
+Most engineers operate several layers above what's actually happening.
 
-## How I work
+I go the other way.
 
-- Scratch your own itch. Imagined problems don't ship.
-- Small tools that do one thing, each a building block.
-- Unnecessary friction? Remove it.
-- Ship this week. Iterate from there.
+Protocol-level, kernel-level — the lower you go,
+the fewer people are there, and the clearer things become.
+That's not a side interest. It's how I think.
 
-## What I'm working on
-**[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** — unofficial CLI for Toss Securities — accounts, quotes, and beta order flows from the terminal
+Security, reverse engineering, building open interfaces for closed systems —
+it all starts from the same place:
+understanding what's actually on the wire, not what the abstraction says is there.
 
-**[openkakao](https://github.com/JungHoonGhae/openkakao)** — unofficial CLI for KakaoTalk — read chats, friends, and profiles on macOS
+## What I build
 
-**[capx](https://github.com/JungHoonGhae/capx)** — unofficial CLI for Capacities.io — full read/write access the official API doesn't have
-
-**[skills](https://github.com/JungHoonGhae/skills)** — AI agent skills for Claude Code, OpenCode
-
-**[oh-my-lilys](https://github.com/JungHoonGhae/oh-my-lilys)** — CLI to summarize YouTube, PDFs, websites
+| Project | Stars | What |
+|---------|-------|------|
+| [tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli) | ⭐ 171 | Toss Securities from terminal — reverse-engineered web sessions, full trade flow (Go) |
+| [openkakao](https://github.com/JungHoonGhae/openkakao) | ⭐ 37 | KakaoTalk CLI — LOCO protocol, AES-128-GCM, real-time messaging (Rust) |
+| [claude-statusline](https://github.com/JungHoonGhae/claude-statusline) | ⭐ 20 | Rich statusline for Claude Code — context, rate limits, cost (Shell) |
+| [opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth) | ⭐ 14 | Kilo Gateway plugin — 342+ AI models in OpenCode (TypeScript) |
+| [capacities-cli](https://github.com/JungHoonGhae/capacities-cli) | | Capacities.io full CRUD — reverse-engineered Portal API (Rust) |
+| [tailbar](https://github.com/JungHoonGhae/tailbar) | | Tailscale menu bar for macOS (Swift) |
+| [skills](https://github.com/JungHoonGhae/skills) | | AI agent skills for Claude Code & OpenCode (Python) |
 
 ---
 
