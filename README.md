@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/junghoonghae/)
 [![X](https://img.shields.io/badge/Follow-%40lucas__ghae-000000?style=flat-square&logo=x&labelColor=black)](https://x.com/lucas_ghae)
+![](https://komarev.com/ghpvc/?username=JungHoonGhae&style=flat-square&color=grey)
 
 The world is adding abstraction faster than anyone can understand it.
 AI writes code nobody owns. Frameworks wrap frameworks.
