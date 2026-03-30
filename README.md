@@ -21,6 +21,8 @@ understanding what's actually on the wire, not what the abstraction says is ther
 
 **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** — unofficial CLI for Toss Securities — reverse-engineered web sessions, accounts, quotes, and order flows from the terminal
 
+**[smartstore-cli](https://github.com/JungHoonGhae/smartstore-cli)** — unofficial CLI for Naver Smart Store — seller center data via reverse-engineered web APIs, AI agent ready
+
 **[openkakao](https://github.com/JungHoonGhae/openkakao)** — unofficial CLI for KakaoTalk — LOCO protocol, real-time messaging, webhooks on macOS
 
 **[capacities-cli](https://github.com/JungHoonGhae/capacities-cli)** — unofficial CLI for Capacities.io — full CRUD via reverse-engineered Portal API
