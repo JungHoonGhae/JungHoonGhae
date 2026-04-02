@@ -56,7 +56,7 @@ $ ls ~/projects
 <br>
 you clicked an empty triangle and expected nothing.
 <br>
-I build things like that — stuff that didn't exist until someone needed it.
+I build things like that — you don't know you need it until you try it.
 </details>
 
 <!-- [3/3] builders read the source. welcome. -->
