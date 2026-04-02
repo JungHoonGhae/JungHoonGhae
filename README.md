@@ -1,5 +1,4 @@
-<!-- you're reading the source. respect. -->
-<!-- if you got here, you think like me. -->
+<!-- [1/3] you're still reading. -->
 
 ![](https://komarev.com/ghpvc/?username=JungHoonGhae)
 
@@ -23,6 +22,8 @@
 + building the next thing.
 ```
 
+<!-- [2/3] most people just scroll. -->
+
 ```mermaid
 graph LR
     A[something annoys me] --> B[build it]
@@ -30,6 +31,9 @@ graph LR
     C --> D[open source it]
     D --> A
 ```
+
+> "the best tool is the one you built because nobody else would."
+> <sup>— me, probably</sup>
 
 ```
 $ ls ~/projects --pinned
@@ -46,6 +50,14 @@ $ ls ~/projects --pinned
   6 items
 ```
 > <sub>[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli) · [smartstore-cli](https://github.com/JungHoonGhae/smartstore-cli) · [openkakao](https://github.com/JungHoonGhae/openkakao) · [capacities-cli](https://github.com/JungHoonGhae/capacities-cli) · [claude-statusline](https://github.com/JungHoonGhae/claude-statusline) · [opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)</sub>
+
+<details>
+<summary>ㅤ</summary>
+<br>
+you found the empty door. nice.
+</details>
+
+<!-- [3/3] builders read the source. welcome. -->
 
 ---
 
