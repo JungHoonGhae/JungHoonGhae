@@ -4,7 +4,7 @@
 
 ```diff
 + $ whoami
-+ lucas
++ lucas (정훈)
 ```
 
 ```diff
