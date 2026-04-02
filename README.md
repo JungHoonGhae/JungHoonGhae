@@ -1,8 +1,7 @@
 <!-- you're reading the source. respect. -->
 <!-- if you got here, you think like me. -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/junghoonghae/)
-![](https://komarev.com/ghpvc/?username=JungHoonGhae&style=flat-square&color=grey)
+![](https://komarev.com/ghpvc/?username=JungHoonGhae)
 
 ```diff
 + $ whoami
@@ -53,6 +52,9 @@ $ ls ~/projects --pinned
 - [ ] rest
 
 ---
+
+come find me on [LinkedIn](https://www.linkedin.com/in/junghoonghae/) <br/>
+or follow [@lucas_ghae](https://x.com/lucas_ghae) on X
 
 <a href="https://www.buymeacoffee.com/lucas.ghae">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40">
