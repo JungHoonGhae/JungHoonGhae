@@ -29,14 +29,13 @@ $ ls ~/projects --pinned
   ──────────────────  ──────  ───────────────────────────────────  ──────
   tossinvest-cli      Go      Toss Securities from the terminal    beta
   smartstore-cli      Go      Naver Smart Store from the terminal  beta
-  openkakao           Rust    KakaoTalk via LOCO protocol          stable
+  openkakao           Rust    KakaoTalk via LOCO protocol          beta
   capacities-cli      Rust    Capacities.io full CRUD              stable
   claude-statusline   TS      rich statusline for Claude Code      stable
-  skills              YAML    skill packs for AI agents            active
 
-  6 items
+  5 items
 ```
-> <sub>[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli) · [smartstore-cli](https://github.com/JungHoonGhae/smartstore-cli) · [openkakao](https://github.com/JungHoonGhae/openkakao) · [capacities-cli](https://github.com/JungHoonGhae/capacities-cli) · [claude-statusline](https://github.com/JungHoonGhae/claude-statusline) · [skills](https://github.com/JungHoonGhae/skills)</sub>
+> <sub>[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli) · [smartstore-cli](https://github.com/JungHoonGhae/smartstore-cli) · [openkakao](https://github.com/JungHoonGhae/openkakao) · [capacities-cli](https://github.com/JungHoonGhae/capacities-cli) · [claude-statusline](https://github.com/JungHoonGhae/claude-statusline)</sub>
 
 - [x] scratch own itch
 - [x] ship it
