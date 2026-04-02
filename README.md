@@ -8,11 +8,17 @@
 + $ whoami
 + lucas
 +
-+ $ cat ~/.philosophy
-+ if it doesn't exist, build it.
-+ if it's closed, open it.
-- if it's slow, mass produce it.
-+ if it's slow, ship it faster.
++ $ git diff ~/.philosophy
+- plan for six months, ship nothing
++ ship this week, iterate from there
+- wait for the perfect abstraction
++ build with what you have now
+- add another layer of framework
++ go one layer deeper
+- keep it closed, monetize the API
++ open it up, let others build on it
+- "we need more meetings about this"
++ just build the damn thing
 +
 + $ lucas --status
 + building the next thing.
