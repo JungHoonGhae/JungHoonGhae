@@ -36,7 +36,7 @@ graph LR
 > <sup>— me, probably</sup>
 
 ```
-$ ls ~/projects --pinned
+$ ls ~/projects --wip
 
   NAME                LANG  DESCRIPTION                          STATUS
   ──────────────────  ────  ───────────────────────────────────  ──────
