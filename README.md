@@ -1,4 +1,5 @@
 <!-- you're reading the source. respect. -->
+<!-- if you got here, you think like me. -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/junghoonghae/)
 ![](https://komarev.com/ghpvc/?username=JungHoonGhae&style=flat-square&color=grey)
@@ -27,21 +28,21 @@
 
 **[skills](https://github.com/JungHoonGhae/skills)** — AI agent skills for Claude Code, OpenCode
 
-<details>
-<summary><b>Stack</b></summary>
-<br>
+## How it usually goes
 
-**Languages** — Rust · Go · Python · TypeScript
+```mermaid
+graph LR
+    A[something annoys me] --> B{official API?}
+    B -->|yes| C[done]
+    B -->|no| D[reverse engineer it]
+    D --> E[build a CLI]
+    E --> F[open source it]
+    F --> A
+```
 
-**AI & Agents** — Claude Code · Anthropic SDK · MCP · Agent SDK · LiteLLM
-
-**Backend** — Hono · FastAPI · Bun · Cloudflare Workers
-
-**Desktop** — Tauri
-
-**Tooling** — uv · Ruff · Cargo · Biome
-
-</details>
+- [x] scratch own itch
+- [x] ship it
+- [ ] rest
 
 ---
 
