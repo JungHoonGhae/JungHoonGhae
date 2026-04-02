@@ -54,10 +54,12 @@ $ ls ~/projects
 <details>
 <summary>ㅤ</summary>
 <br>
-you clicked nothing and found something. that's basically my job.
+you clicked nothing and found something.
+that's basically my entire career.
 <br><br>
-every project I've ever built started the same way:
-"what happens if I click this?"
+every project starts the same way — "what happens if I click this?"
+<br>
+every terms of service violation too, now that I think about it.
 </details>
 
 <!-- [3/3] builders read the source. welcome. -->
