@@ -59,12 +59,11 @@ $ ls ~/projects --in-progress
 <summary>ㅤ</summary>
 
 
-> **★ Achievement Unlocked:** *"Clicked the Void"*
->
 > you clicked nothing and found something.
 > that's basically my entire career.
 >
-> ---
+> sometimes the best things start with clicking something that looks pointless.
+> you just proved you're the type.
 >
 > `+ 1 easter egg found` · `? 2 hidden in the source`
 
