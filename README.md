@@ -47,10 +47,6 @@ $ ls ~/projects --pinned
 ```
 > <sub>[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli) · [smartstore-cli](https://github.com/JungHoonGhae/smartstore-cli) · [openkakao](https://github.com/JungHoonGhae/openkakao) · [capacities-cli](https://github.com/JungHoonGhae/capacities-cli) · [claude-statusline](https://github.com/JungHoonGhae/claude-statusline) · [opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)</sub>
 
-- [x] scratch own itch
-- [x] ship it
-- [ ] rest
-
 ---
 
 come find me on [LinkedIn](https://www.linkedin.com/in/junghoonghae/) <br/>
