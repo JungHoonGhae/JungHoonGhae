@@ -58,15 +58,8 @@ $ ls ~/projects --in-progress
 <details>
 <summary>ㅤ</summary>
 <pre>
-
-  ██╗     ██╗   ██╗ ██████╗ █████╗ ███████╗
-  ██║     ██║   ██║██╔════╝██╔══██╗██╔════╝
-  ██║     ██║   ██║██║     ███████║███████╗
-  ██║     ██║   ██║██║     ██╔══██║╚════██║
-  ███████╗╚██████╔╝╚██████╗██║  ██║███████║
-  ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝
-
   ┌─────────────────────────────────────────────────────┐
+  │                                                     │
   │  ★ Achievement Unlocked: "Clicked the Void"        │
   │                                                     │
   │  you clicked nothing and found something.           │
@@ -76,8 +69,13 @@ $ ls ~/projects --in-progress
   │  "what happens if I click this?"                    │
   │  every terms of service violation too,              │
   │  now that I think about it.                         │
+  │                                                     │
+  │  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─   │
+  │                                                     │
+  │  + 1 easter egg found                               │
+  │  ? 2 hidden in the source                           │
+  │                                                     │
   └─────────────────────────────────────────────────────┘
-
 </pre>
 </details>
 
