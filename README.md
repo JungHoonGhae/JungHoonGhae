@@ -1,21 +1,17 @@
-## Lucas Ghae
+<!-- you're reading the source. respect. -->
+
+```diff
++ $ whoami
++ lucas — builds open interfaces for closed systems
++
++ $ lucas --philosophy
++ protocol-level, kernel-level.
++ the lower you go, the fewer people are there,
++ and the clearer things become.
+```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/junghoonghae/)
 ![](https://komarev.com/ghpvc/?username=JungHoonGhae&style=flat-square&color=grey)
-
-The world is adding abstraction faster than anyone can understand it.
-AI writes code nobody owns. Frameworks wrap frameworks.
-Most engineers operate several layers above what's actually happening.
-
-I go the other way.
-
-Protocol-level, kernel-level — the lower you go,
-the fewer people are there, and the clearer things become.
-That's not a side interest. It's how I think.
-
-Security, reverse engineering, building open interfaces for closed systems —
-it all starts from the same place:
-understanding what's actually on the wire, not what the abstraction says is there.
 
 ## What I'm working on
 
@@ -30,6 +26,22 @@ understanding what's actually on the wire, not what the abstraction says is ther
 **[claude-statusline](https://github.com/JungHoonGhae/claude-statusline)** — rich statusline for Claude Code — context, rate limits, cost tracking
 
 **[skills](https://github.com/JungHoonGhae/skills)** — AI agent skills for Claude Code, OpenCode
+
+<details>
+<summary><b>Stack</b></summary>
+<br>
+
+**Languages** — Rust · Go · Python · TypeScript
+
+**AI & Agents** — Claude Code · Anthropic SDK · MCP · Agent SDK · LiteLLM
+
+**Backend** — Hono · FastAPI · Bun · Cloudflare Workers
+
+**Desktop** — Tauri
+
+**Tooling** — uv · Ruff · Cargo · Biome
+
+</details>
 
 ---
 
