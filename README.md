@@ -54,9 +54,11 @@ $ ls ~/projects
 <details>
 <summary>ㅤ</summary>
 <br>
-you clicked nothing and found something. that's basically my job.<br>
-congrats, you just reverse-engineered my README.<br>
-this is how all my projects start. "what happens if I click this?"
+you clicked nothing and found something. that's basically my job.
+<br><br>
+congrats — you just reverse-engineered my README.
+every project I've ever built started the same way:
+"what happens if I click this?"
 </details>
 
 <!-- [3/3] builders read the source. welcome. -->
