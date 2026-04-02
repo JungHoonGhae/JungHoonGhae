@@ -23,7 +23,7 @@ graph LR
 ```
 
 ```
-$ ls ~/projects
+$ ls ~/projects --pinned
 
   NAME                DESCRIPTION
   ──────────────────  ──────────────────────────────────────
