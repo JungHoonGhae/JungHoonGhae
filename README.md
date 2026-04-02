@@ -40,7 +40,7 @@ graph LR
 > "they mass produce walls. I mass produce doors." — me, probably
 
 ```
-$ ls ~/projects
+$ ls ~/projects --in-progress
 
   STATUS  NAME                LANG  DESCRIPTION
   ──────  ──────────────────  ────  ───────────────────────────────────
