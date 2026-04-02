@@ -32,8 +32,8 @@ graph LR
     D --> A
 ```
 
-> "they mass produce walls. I mass produce doors."
-> <sup>— me, probably</sup>
+> [!WARNING]
+> "they mass produce walls. I mass produce doors." — me, probably
 
 ```
 $ ls ~/projects
