@@ -14,20 +14,6 @@
 + and the clearer things become.
 ```
 
-## What I'm working on
-
-**[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** — unofficial CLI for Toss Securities — reverse-engineered web sessions, accounts, quotes, and order flows from the terminal
-
-**[smartstore-cli](https://github.com/JungHoonGhae/smartstore-cli)** — unofficial CLI for Naver Smart Store — seller center data via reverse-engineered web APIs, AI agent ready
-
-**[openkakao](https://github.com/JungHoonGhae/openkakao)** — unofficial CLI for KakaoTalk — LOCO protocol, real-time messaging, webhooks on macOS
-
-**[capacities-cli](https://github.com/JungHoonGhae/capacities-cli)** — unofficial CLI for Capacities.io — full CRUD via reverse-engineered Portal API
-
-**[claude-statusline](https://github.com/JungHoonGhae/claude-statusline)** — rich statusline for Claude Code — context, rate limits, cost tracking
-
-**[skills](https://github.com/JungHoonGhae/skills)** — AI agent skills for Claude Code, OpenCode
-
 ```mermaid
 graph LR
     A[something annoys me] --> B[build it]
@@ -35,6 +21,17 @@ graph LR
     C --> D[open source it]
     D --> A
 ```
+
+## `ls ~/projects`
+
+| | what | how |
+|---|---|---|
+| 📈 | **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** | Toss Securities from the terminal |
+| 🛒 | **[smartstore-cli](https://github.com/JungHoonGhae/smartstore-cli)** | Naver Smart Store from the terminal |
+| 💬 | **[openkakao](https://github.com/JungHoonGhae/openkakao)** | KakaoTalk via LOCO protocol on macOS |
+| 📝 | **[capacities-cli](https://github.com/JungHoonGhae/capacities-cli)** | Capacities.io full CRUD |
+| 🖥️ | **[claude-statusline](https://github.com/JungHoonGhae/claude-statusline)** | rich statusline for Claude Code |
+| 🧠 | **[skills](https://github.com/JungHoonGhae/skills)** | skill packs for AI agents |
 
 - [x] scratch own itch
 - [x] ship it
