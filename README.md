@@ -54,12 +54,9 @@ $ ls ~/projects
 <details>
 <summary>ㅤ</summary>
 <br>
-you clicked nothing and found something.
-that's basically my entire career.
-<br><br>
-every project starts the same way — "what happens if I click this?"
+you clicked an empty triangle and expected nothing.
 <br>
-every terms of service violation too, now that I think about it.
+I build things like that — stuff that wasn't supposed to exist.
 </details>
 
 <!-- [3/3] builders read the source. welcome. -->
