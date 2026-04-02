@@ -1,4 +1,4 @@
-<!-- [1/3] you're still reading. -->
+<!-- [1/3] you opened the source. most people don't. -->
 
 ```
   ██╗     ██╗   ██╗ ██████╗ █████╗ ███████╗
@@ -31,7 +31,7 @@
 + building the next thing.
 ```
 
-<!-- [2/3] most people just scroll. -->
+<!-- [2/3] you're still here. interesting. -->
 
 ```mermaid
 graph LR
@@ -75,7 +75,7 @@ $ ls ~/projects
 </pre>
 </details>
 
-<!-- [3/3] builders read the source. welcome. -->
+<!-- [3/3] you read the whole thing. we should build something. -->
 
 ---
 
