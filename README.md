@@ -54,7 +54,7 @@ $ ls ~/projects
 <details>
 <summary>ㅤ</summary>
 <br>
-you found the empty door. nice.
+you clicked nothing and found something. that's basically my job.
 </details>
 
 <!-- [3/3] builders read the source. welcome. -->
