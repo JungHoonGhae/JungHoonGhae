@@ -13,7 +13,7 @@
 + build with what you have now
 - add another layer of framework
 + go one layer deeper
-- keep it closed, monetize the API
+- keep it closed, charge for the workaround
 + open it up, let others build on it
 - "we need more meetings about this"
 + just build the damn thing
