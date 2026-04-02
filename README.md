@@ -22,16 +22,21 @@ graph LR
     D --> A
 ```
 
-## `ls ~/projects`
+```
+$ ls ~/projects
 
-| | what | how |
-|---|---|---|
-| 📈 | **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** | Toss Securities from the terminal |
-| 🛒 | **[smartstore-cli](https://github.com/JungHoonGhae/smartstore-cli)** | Naver Smart Store from the terminal |
-| 💬 | **[openkakao](https://github.com/JungHoonGhae/openkakao)** | KakaoTalk via LOCO protocol on macOS |
-| 📝 | **[capacities-cli](https://github.com/JungHoonGhae/capacities-cli)** | Capacities.io full CRUD |
-| 🖥️ | **[claude-statusline](https://github.com/JungHoonGhae/claude-statusline)** | rich statusline for Claude Code |
-| 🧠 | **[skills](https://github.com/JungHoonGhae/skills)** | skill packs for AI agents |
+  NAME                DESCRIPTION
+  ──────────────────  ──────────────────────────────────────
+  tossinvest-cli      Toss Securities from the terminal
+  smartstore-cli      Naver Smart Store from the terminal
+  openkakao           KakaoTalk via LOCO protocol on macOS
+  capacities-cli      Capacities.io full CRUD
+  claude-statusline   rich statusline for Claude Code
+  skills              skill packs for AI agents
+
+  6 items
+```
+> <sub>[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli) · [smartstore-cli](https://github.com/JungHoonGhae/smartstore-cli) · [openkakao](https://github.com/JungHoonGhae/openkakao) · [capacities-cli](https://github.com/JungHoonGhae/capacities-cli) · [claude-statusline](https://github.com/JungHoonGhae/claude-statusline) · [skills](https://github.com/JungHoonGhae/skills)</sub>
 
 - [x] scratch own itch
 - [x] ship it
