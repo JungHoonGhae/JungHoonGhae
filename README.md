@@ -36,7 +36,7 @@ graph LR
 > <sup>— me, probably</sup>
 
 ```
-$ ls ~/projects --wip
+$ status ~/projects
 
   NAME                LANG  DESCRIPTION                          STATUS
   ──────────────────  ────  ───────────────────────────────────  ──────
