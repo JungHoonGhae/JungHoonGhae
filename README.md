@@ -28,16 +28,12 @@
 
 **[skills](https://github.com/JungHoonGhae/skills)** — AI agent skills for Claude Code, OpenCode
 
-## How it usually goes
-
 ```mermaid
 graph LR
-    A[something annoys me] --> B{official API?}
-    B -->|yes| C[done]
-    B -->|no| D[reverse engineer it]
-    D --> E[build a CLI]
-    E --> F[open source it]
-    F --> A
+    A[something annoys me] --> B[build it]
+    B --> C[ship it]
+    C --> D[open source it]
+    D --> A
 ```
 
 - [x] scratch own itch
