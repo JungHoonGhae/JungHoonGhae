@@ -2,13 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=JungHoonGhae)
 
-```diff
-+ $ whoami
-+ lucas (junghoon)
+```
+$ whoami
+lucas (junghoon)
 ```
 
 ```diff
-+ $ git diff ~/.philosophy
+$ git diff ~/.philosophy
 - plan for six months, ship nothing
 + ship this week, iterate from there
 - wait for the perfect abstraction
@@ -21,9 +21,9 @@
 + just build the damn thing
 ```
 
-```diff
-+ $ lucas --status
-+ building the next thing.
+```
+$ lucas --status
+building the next thing.
 ```
 
 <!-- [2/3] you're still here. interesting. -->
