@@ -28,14 +28,6 @@
 
 <!-- [2/3] you're still here. interesting. -->
 
-```mermaid
-graph LR
-    A[something annoys me] --> B[build it]
-    B --> C[ship it]
-    C --> D[open source it]
-    D --> A
-```
-
 > [!WARNING]
 > "they mass produce walls. I mass produce doors." — me, probably
 
