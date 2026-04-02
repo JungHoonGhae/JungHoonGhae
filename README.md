@@ -67,8 +67,6 @@ $ ls ~/projects --in-progress
   │                                                     │
   │  every project starts the same way —                │
   │  "what happens if I click this?"                    │
-  │  every terms of service violation too,              │
-  │  now that I think about it.                         │
   │                                                     │
   │  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─   │
   │                                                     │
