@@ -54,9 +54,17 @@ $ ls ~/projects
 <details>
 <summary>ㅤ</summary>
 <br>
-🔓 <b>Achievement Unlocked:</b> <i>Clicked the Void</i>
-<br><br>
-<sub>you don't know you need it until you try it. that's how I build things too.</sub>
+```
+┌──────────────────────────────────────┐
+│  ★ Achievement Unlocked             │
+│                                      │
+│  "Clicked the Void"                  │
+│                                      │
+│  you don't know you need it          │
+│  until you try it.                   │
+│  that's how I build things too.      │
+└──────────────────────────────────────┘
+```
 </details>
 
 <!-- [3/3] builders read the source. welcome. -->
