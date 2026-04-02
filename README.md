@@ -11,6 +11,7 @@
 + $ cat ~/.philosophy
 + if it doesn't exist, build it.
 + if it's closed, open it.
+- if it's slow, mass produce it.
 + if it's slow, ship it faster.
 +
 + $ lucas --status
