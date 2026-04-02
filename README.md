@@ -6,12 +6,15 @@
 
 ```diff
 + $ whoami
-+ lucas — builds open interfaces for closed systems
++ lucas
 +
-+ $ lucas --philosophy
-+ protocol-level, kernel-level.
-+ the lower you go, the fewer people are there,
-+ and the clearer things become.
++ $ cat ~/.philosophy
++ if it doesn't exist, build it.
++ if it's closed, open it.
++ if it's slow, ship it faster.
++
++ $ lucas --status
++ building the next thing.
 ```
 
 ```mermaid
