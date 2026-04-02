@@ -32,8 +32,8 @@ graph LR
     D --> A
 ```
 
-> "the best tool is the one you built because nobody else would."
-> <sup>— me, probably</sup>
+> "they mass produce walls. I mass produce doors."
+> <sup>— open source, literally</sup>
 
 ```
 $ ls ~/projects --pinned
