@@ -54,9 +54,9 @@ $ ls ~/projects
 <details>
 <summary>ㅤ</summary>
 <br>
-congrats — most people scroll past this.
-<br>
-I build things like that — you don't know you need it until you try it.
+🔓 <b>Achievement Unlocked:</b> <i>Clicked the Void</i>
+<br><br>
+<sub>you don't know you need it until you try it. that's how I build things too.</sub>
 </details>
 
 <!-- [3/3] builders read the source. welcome. -->
