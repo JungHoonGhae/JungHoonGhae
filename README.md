@@ -27,11 +27,6 @@
 
 **[skills](https://github.com/JungHoonGhae/skills)** — AI agent skills for Claude Code, OpenCode
 
-> [!NOTE]
-> If it has an API, I probably don't need to build it. If it doesn't, that's where I start.[^1]
-
-[^1]: Most of these started as weekend scratches.
-
 <details>
 <summary><b>Stack</b></summary>
 <br>
