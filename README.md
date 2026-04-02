@@ -65,9 +65,6 @@ $ ls ~/projects --in-progress
   │  you clicked nothing and found something.           │
   │  that's basically my entire career.                 │
   │                                                     │
-  │  every project starts the same way —                │
-  │  "what happens if I click this?"                    │
-  │                                                     │
   │  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─   │
   │                                                     │
   │  + 1 easter egg found                               │
