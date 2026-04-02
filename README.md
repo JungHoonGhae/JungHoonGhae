@@ -32,10 +32,11 @@ $ ls ~/projects --pinned
   openkakao           Rust    KakaoTalk via LOCO protocol          beta
   capacities-cli      Rust    Capacities.io full CRUD              stable
   claude-statusline   TS      rich statusline for Claude Code      stable
+  opencode-kilo-auth  TS      OpenCode plugin for Kilo Gateway      stable
 
-  5 items
+  6 items
 ```
-> <sub>[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli) · [smartstore-cli](https://github.com/JungHoonGhae/smartstore-cli) · [openkakao](https://github.com/JungHoonGhae/openkakao) · [capacities-cli](https://github.com/JungHoonGhae/capacities-cli) · [claude-statusline](https://github.com/JungHoonGhae/claude-statusline)</sub>
+> <sub>[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli) · [smartstore-cli](https://github.com/JungHoonGhae/smartstore-cli) · [openkakao](https://github.com/JungHoonGhae/openkakao) · [capacities-cli](https://github.com/JungHoonGhae/capacities-cli) · [claude-statusline](https://github.com/JungHoonGhae/claude-statusline) · [opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)</sub>
 
 - [x] scratch own itch
 - [x] ship it
