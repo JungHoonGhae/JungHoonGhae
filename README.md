@@ -36,16 +36,16 @@ graph LR
 > <sup>— me, probably</sup>
 
 ```
-$ status ~/projects
+$ ls ~/projects
 
-  NAME                LANG  DESCRIPTION                          STATUS
-  ──────────────────  ────  ───────────────────────────────────  ──────
-  tossinvest-cli      Go    Toss Securities from the terminal    beta
-  smartstore-cli      Go    Naver Smart Store from the terminal  beta
-  openkakao           Rust  KakaoTalk via LOCO protocol          beta
-  capacities-cli      Rust  Capacities.io full CRUD              stable
-  claude-statusline   TS    rich statusline for Claude Code      stable
-  opencode-kilo-auth  TS    OpenCode plugin for Kilo Gateway     stable
+  STATUS  NAME                LANG  DESCRIPTION
+  ──────  ──────────────────  ────  ───────────────────────────────────
+  beta    tossinvest-cli      Go    Toss Securities from the terminal
+  beta    smartstore-cli      Go    Naver Smart Store from the terminal
+  beta    openkakao           Rust  KakaoTalk via LOCO protocol
+  stable  capacities-cli      Rust  Capacities.io full CRUD
+  stable  claude-statusline   TS    rich statusline for Claude Code
+  stable  opencode-kilo-auth  TS    OpenCode plugin for Kilo Gateway
 
   6 items
 ```
