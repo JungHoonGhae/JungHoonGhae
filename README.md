@@ -1,4 +1,5 @@
 <!-- you're reading the source. respect. -->
+<!-- hint: there's a map at the bottom. -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/junghoonghae/)
 ![](https://komarev.com/ghpvc/?username=JungHoonGhae&style=flat-square&color=grey)
@@ -27,6 +28,11 @@
 
 **[skills](https://github.com/JungHoonGhae/skills)** — AI agent skills for Claude Code, OpenCode
 
+> [!NOTE]
+> Every project above reverse-engineers a closed system and opens it up.[^1]
+
+[^1]: If it has an API, I probably don't need to build it. If it doesn't, that's where I start.
+
 <details>
 <summary><b>Stack</b></summary>
 <br>
@@ -40,6 +46,20 @@
 **Desktop** — Tauri
 
 **Tooling** — uv · Ruff · Cargo · Biome
+
+</details>
+
+<details>
+<summary><b>Where</b></summary>
+<br>
+
+```geojson
+{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [126.978, 37.566] },
+  "properties": { "name": "Seoul" }
+}
+```
 
 </details>
 
