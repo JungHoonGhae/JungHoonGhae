@@ -5,7 +5,9 @@
 ```diff
 + $ whoami
 + lucas
-+
+```
+
+```diff
 + $ git diff ~/.philosophy
 - plan for six months, ship nothing
 + ship this week, iterate from there
@@ -17,7 +19,9 @@
 + open it up, let others build on it
 - "we need more meetings about this"
 + just build the damn thing
-+
+```
+
+```diff
 + $ lucas --status
 + building the next thing.
 ```
