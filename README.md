@@ -1,5 +1,8 @@
 <!-- you're reading the source. respect. -->
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/junghoonghae/)
+![](https://komarev.com/ghpvc/?username=JungHoonGhae&style=flat-square&color=grey)
+
 ```diff
 + $ whoami
 + lucas — builds open interfaces for closed systems
@@ -9,9 +12,6 @@
 + the lower you go, the fewer people are there,
 + and the clearer things become.
 ```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/junghoonghae/)
-![](https://komarev.com/ghpvc/?username=JungHoonGhae&style=flat-square&color=grey)
 
 ## What I'm working on
 
