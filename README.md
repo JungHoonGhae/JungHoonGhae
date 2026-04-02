@@ -59,11 +59,7 @@ $ ls ~/projects --in-progress
 <summary>ㅤ</summary>
 
 
-> you clicked nothing and found something.
-> that's basically my entire career.
->
-> sometimes the best things start with clicking something that looks pointless.
-> you just proved you're the type.
+> you clicked nothing and found something. now imagine doing that for a living.
 
 
 </details>
