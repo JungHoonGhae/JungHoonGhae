@@ -62,15 +62,17 @@ $ ls ~/projects
   ███████╗╚██████╔╝╚██████╗██║  ██║███████║
   ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝
 
-  ┌──────────────────────────────────────┐
-  │  ★ Achievement Unlocked             │
-  │                                      │
-  │  "Clicked the Void"                  │
-  │                                      │
-  │  you don't know you need it          │
-  │  until you try it.                   │
-  │  that's how I build things too.      │
-  └──────────────────────────────────────┘
+  ┌─────────────────────────────────────────────────────┐
+  │  ★ Achievement Unlocked: "Clicked the Void"        │
+  │                                                     │
+  │  you clicked nothing and found something.           │
+  │  that's basically my entire career.                 │
+  │                                                     │
+  │  every project starts the same way —                │
+  │  "what happens if I click this?"                    │
+  │  every terms of service violation too,              │
+  │  now that I think about it.                         │
+  └─────────────────────────────────────────────────────┘
 
 </pre>
 </details>
