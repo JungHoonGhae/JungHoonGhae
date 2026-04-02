@@ -33,7 +33,7 @@ graph LR
 ```
 
 > "they mass produce walls. I mass produce doors."
-> <sup>— open source, literally</sup>
+> <sup>— me, probably</sup>
 
 ```
 $ ls ~/projects --pinned
