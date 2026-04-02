@@ -25,14 +25,14 @@ graph LR
 ```
 $ ls ~/projects --pinned
 
-  NAME                LANG    DESCRIPTION                          STATUS
-  ──────────────────  ──────  ───────────────────────────────────  ──────
-  tossinvest-cli      Go      Toss Securities from the terminal    beta
-  smartstore-cli      Go      Naver Smart Store from the terminal  beta
-  openkakao           Rust    KakaoTalk via LOCO protocol          beta
-  capacities-cli      Rust    Capacities.io full CRUD              stable
-  claude-statusline   TS      rich statusline for Claude Code      stable
-  opencode-kilo-auth  TS      OpenCode plugin for Kilo Gateway      stable
+  NAME                LANG  DESCRIPTION                          STATUS
+  ──────────────────  ────  ───────────────────────────────────  ──────
+  tossinvest-cli      Go    Toss Securities from the terminal    beta
+  smartstore-cli      Go    Naver Smart Store from the terminal  beta
+  openkakao           Rust  KakaoTalk via LOCO protocol          beta
+  capacities-cli      Rust  Capacities.io full CRUD              stable
+  claude-statusline   TS    rich statusline for Claude Code      stable
+  opencode-kilo-auth  TS    OpenCode plugin for Kilo Gateway     stable
 
   6 items
 ```
