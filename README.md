@@ -64,8 +64,6 @@ $ ls ~/projects --in-progress
 >
 > sometimes the best things start with clicking something that looks pointless.
 > you just proved you're the type.
->
-> `+ 1 easter egg found` · `? 2 hidden in the source`
 
 
 </details>
