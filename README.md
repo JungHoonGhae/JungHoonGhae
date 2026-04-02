@@ -53,8 +53,7 @@ $ ls ~/projects
 
 <details>
 <summary>ㅤ</summary>
-<br>
-```
+<pre>
 ┌──────────────────────────────────────┐
 │  ★ Achievement Unlocked             │
 │                                      │
@@ -64,7 +63,7 @@ $ ls ~/projects
 │  until you try it.                   │
 │  that's how I build things too.      │
 └──────────────────────────────────────┘
-```
+</pre>
 </details>
 
 <!-- [3/3] builders read the source. welcome. -->
