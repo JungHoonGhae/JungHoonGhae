@@ -58,19 +58,19 @@ $ ls ~/projects --in-progress
 <details>
 <summary>ㅤ</summary>
 <pre>
-  ┌─────────────────────────────────────────────────────┐
-  │                                                     │
-  │  ★ Achievement Unlocked: "Clicked the Void"        │
-  │                                                     │
-  │  you clicked nothing and found something.           │
-  │  that's basically my entire career.                 │
-  │                                                     │
-  │  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─   │
-  │                                                     │
-  │  + 1 easter egg found                               │
-  │  ? 2 hidden in the source                           │
-  │                                                     │
-  └─────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────┐
+│                                               │
+│  ★ Achievement Unlocked: "Clicked the Void"  │
+│                                               │
+│  you clicked nothing and found something.     │
+│  that's basically my entire career.           │
+│                                               │
+│  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─  │
+│                                               │
+│  + 1 easter egg found                         │
+│  ? 2 hidden in the source                     │
+│                                               │
+└───────────────────────────────────────────────┘
 </pre>
 </details>
 
