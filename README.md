@@ -54,7 +54,7 @@ $ ls ~/projects
 <details>
 <summary>ㅤ</summary>
 <br>
-you clicked an empty triangle and expected nothing.
+congrats — most people scroll past this.
 <br>
 I build things like that — you don't know you need it until you try it.
 </details>
