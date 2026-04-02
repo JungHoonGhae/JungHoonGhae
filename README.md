@@ -25,14 +25,14 @@ graph LR
 ```
 $ ls ~/projects --pinned
 
-  NAME                DESCRIPTION
-  ──────────────────  ──────────────────────────────────────
-  tossinvest-cli      Toss Securities from the terminal
-  smartstore-cli      Naver Smart Store from the terminal
-  openkakao           KakaoTalk via LOCO protocol on macOS
-  capacities-cli      Capacities.io full CRUD
-  claude-statusline   rich statusline for Claude Code
-  skills              skill packs for AI agents
+  NAME                LANG    DESCRIPTION                          STATUS
+  ──────────────────  ──────  ───────────────────────────────────  ──────
+  tossinvest-cli      Go      Toss Securities from the terminal    beta
+  smartstore-cli      Go      Naver Smart Store from the terminal  beta
+  openkakao           Rust    KakaoTalk via LOCO protocol          stable
+  capacities-cli      Rust    Capacities.io full CRUD              stable
+  claude-statusline   TS      rich statusline for Claude Code      stable
+  skills              YAML    skill packs for AI agents            active
 
   6 items
 ```
