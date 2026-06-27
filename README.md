@@ -65,7 +65,11 @@ open source, shipped weekly. fueled by people who get it.
 
 <a href="https://github.com/sponsors/JungHoonGhae"><img src="assets/sponsor.svg" height="44" alt="Become a sponsor" /></a>
 
-<sub>backed by <a href="https://github.com/sponsors/JungHoonGhae"><img src="assets/anonymous.svg" width="20" height="20" align="top" alt="anonymous sponsor" /></a> · <strong>1</strong> sponsor so far (one-time included). be the next.</sub>
+<!-- sponsors:start -->
+
+<sub>backed by <a href="https://github.com/sponsors/JungHoonGhae" title="비공개 후원자 / private sponsor"><img src="assets/anonymous.svg" width="22" height="22" alt="private sponsor" /></a> · <strong>1</strong> sponsor so far (one-time included). be the next.</sub>
+
+<!-- sponsors:end -->
 
 ---
 
