@@ -58,10 +58,20 @@ $ ls ~/projects --in-progress
 
 <!-- [3/3] you read the whole thing. we should build something. -->
 
+```
+$ lucas --back-me
+open source, shipped weekly. fueled by people who get it.
+```
+
+<a href="https://github.com/sponsors/JungHoonGhae"><img src="assets/sponsor.svg" height="44" alt="Become a sponsor" /></a>
+
+<sub>backed by <a href="https://github.com/sponsors/JungHoonGhae"><img src="assets/anonymous.svg" width="20" height="20" align="top" alt="anonymous sponsor" /></a> · <strong>1</strong> sponsor so far (one-time included). be the next.</sub>
+
 ---
 
 come find me on [LinkedIn](https://www.linkedin.com/in/junghoonghae/) <br/>
-or follow [@lucas_ghae](https://x.com/lucas_ghae) on X
+or follow [@lucas_ghae](https://x.com/lucas_ghae) on X <br/>
+or mail [lucas.ghae@remodule.dev](mailto:lucas.ghae@remodule.dev)
 
 <a href="https://www.buymeacoffee.com/lucas.ghae">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40">
