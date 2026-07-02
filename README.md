@@ -31,21 +31,33 @@ building the next thing.
 > [!WARNING]
 > "they mass produce walls. I mass produce doors." — me, probably
 
-```
-$ ls ~/projects --in-progress
+## Start Here
 
-  STATUS  NAME                LANG  DESCRIPTION
-  ──────  ──────────────────  ────  ───────────────────────────────────
-  beta    tossinvest-cli      Go    Toss Securities from the terminal
-  beta    smartstore-cli      Go    Naver Smart Store from the terminal
-  beta    openkakao-cli       Rust  KakaoTalk via LOCO protocol
-  stable  capacities-cli      Rust  Capacities.io full CRUD
-  stable  claude-statusline   TS    rich statusline for Claude Code
-  stable  opencode-kilo-auth  TS    OpenCode plugin for Kilo Gateway
+- 🏦 **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** (428★) — Toss Securities from your terminal or AI agent
+- 💬 **[openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli)** (104★) — KakaoTalk for macOS, login-free via Accessibility automation
+- 🔌 **[opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)** (38★) — OpenCode plugin for Kilo Gateway, 342+ models
 
-  6 items
-```
-> <sub>[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli) · [smartstore-cli](https://github.com/JungHoonGhae/smartstore-cli) · [openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli) · [capacities-cli](https://github.com/JungHoonGhae/capacities-cli) · [claude-statusline](https://github.com/JungHoonGhae/claude-statusline) · [opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)</sub>
+## Trading & Commerce CLIs
+
+- 🏦 **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** (428★) — Toss Securities, official + unofficial coverage, auto-routes when a real API key is connected
+- 🛒 **[smartstore-cli](https://github.com/JungHoonGhae/smartstore-cli)** (22★) — Naver Smart Store seller center data access
+
+## AI Agent Tooling
+
+- 💬 **[openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli)** (104★) — KakaoTalk for macOS, login-free send/read via Accessibility automation
+- 🔌 **[opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)** (38★) — OpenCode ↔ Kilo Gateway, 342+ models
+- 📟 **[claude-statusline](https://github.com/JungHoonGhae/claude-statusline)** (31★) — rich statusline for Claude Code
+- 🗂️ **[capacities-cli](https://github.com/JungHoonGhae/capacities-cli)** (5★) — unofficial full-CRUD CLI for Capacities.io
+- 🧩 **[skills](https://github.com/JungHoonGhae/skills)** (4★) — AI agent skills for Claude Code, OpenCode, and other coding assistants
+
+## macOS Native Tools
+
+- 🌐 **[tailbar](https://github.com/JungHoonGhae/tailbar)** (5★) — Tailscale menu bar app, manage serves/peers/exit nodes without the terminal
+- 🏴‍☠️ **[captains-log](https://github.com/JungHoonGhae/captains-log)** — pirate-themed menu bar app that gamifies dev velocity, ship or die
+
+## Data & Civic Tech
+
+- 🗳️ **[k-vote-cli](https://github.com/JungHoonGhae/k-vote-cli)** — 한국 선거 공개 데이터 접근성 CLI (NESDC 여론조사 · NEC 개표결과), 키리스·중립·재현가능
 
 <details>
 <summary>ㅤ</summary>
