@@ -42,13 +42,19 @@ building the next thing.
 - 🏦 **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** (428★) — Toss Securities, official + unofficial coverage, auto-routes when a real API key is connected
 - 🛒 **[smartstore-cli](https://github.com/JungHoonGhae/smartstore-cli)** (22★) — Naver Smart Store seller center data access
 
-## AI Agent Tooling
+## Messaging Automation
 
 - 💬 **[openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli)** (104★) — KakaoTalk for macOS, login-free send/read via Accessibility automation
-- 🔌 **[opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)** (38★) — OpenCode ↔ Kilo Gateway, 342+ models
-- 📟 **[claude-statusline](https://github.com/JungHoonGhae/claude-statusline)** (31★) — rich statusline for Claude Code
+
+## AI Coding Agent Ecosystem
+
+- 🔌 **[opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)** (38★) — OpenCode plugin for Kilo Gateway, 342+ models
+- 📟 **[claude-statusline](https://github.com/JungHoonGhae/claude-statusline)** (31★) — rich statusline for Claude Code, pure bash
+- 🧩 **[skills](https://github.com/JungHoonGhae/skills)** (4★) — agent skills for Claude Code, OpenCode, and other coding assistants
+
+## Productivity Tools
+
 - 🗂️ **[capacities-cli](https://github.com/JungHoonGhae/capacities-cli)** (5★) — unofficial full-CRUD CLI for Capacities.io
-- 🧩 **[skills](https://github.com/JungHoonGhae/skills)** (4★) — AI agent skills for Claude Code, OpenCode, and other coding assistants
 
 ## macOS Native Tools
 
