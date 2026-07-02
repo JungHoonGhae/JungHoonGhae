@@ -37,42 +37,35 @@ building the next thing.
 - 💬 **[openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli)** (104★) — KakaoTalk for macOS, login-free via Accessibility automation
 - 🔌 **[opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)** (38★) — OpenCode plugin for Kilo Gateway, 342+ models
 
-## Trading & Commerce CLIs
+## Current Projects
+
+### Trading & Commerce CLIs
 
 - 🏦 **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** (428★) — Toss Securities, official + unofficial coverage, auto-routes when a real API key is connected
 - 🛒 **[smartstore-cli](https://github.com/JungHoonGhae/smartstore-cli)** (22★) — Naver Smart Store seller center data access
 
-## Messaging Automation
+### Messaging Automation
 
 - 💬 **[openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli)** (104★) — KakaoTalk for macOS, login-free send/read via Accessibility automation
 
-## AI Coding Agent Ecosystem
+### AI Coding Agent Ecosystem
 
 - 🔌 **[opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)** (38★) — OpenCode plugin for Kilo Gateway, 342+ models
 - 📟 **[claude-statusline](https://github.com/JungHoonGhae/claude-statusline)** (31★) — rich statusline for Claude Code, pure bash
 - 🧩 **[skills](https://github.com/JungHoonGhae/skills)** (4★) — agent skills for Claude Code, OpenCode, and other coding assistants
 
-## Productivity Tools
+### Productivity Tools
 
 - 🗂️ **[capacities-cli](https://github.com/JungHoonGhae/capacities-cli)** (5★) — unofficial full-CRUD CLI for Capacities.io
 
-## macOS Native Tools
+### macOS Native Tools
 
 - 🌐 **[tailbar](https://github.com/JungHoonGhae/tailbar)** (5★) — Tailscale menu bar app, manage serves/peers/exit nodes without the terminal
 - 🏴‍☠️ **[captains-log](https://github.com/JungHoonGhae/captains-log)** — pirate-themed menu bar app that gamifies dev velocity, ship or die
 
-## Data & Civic Tech
+### Data & Civic Tech
 
 - 🗳️ **[k-vote-cli](https://github.com/JungHoonGhae/k-vote-cli)** — 한국 선거 공개 데이터 접근성 CLI (NESDC 여론조사 · NEC 개표결과), 키리스·중립·재현가능
-
-<details>
-<summary>ㅤ</summary>
-
-
-> you clicked nothing and found something. now imagine doing that for a living.
-
-
-</details>
 
 <!-- [3/3] you read the whole thing. we should build something. -->
 
@@ -91,10 +84,21 @@ open source, shipped weekly. fueled by people who get it.
 
 ---
 
-come find me on [LinkedIn](https://www.linkedin.com/in/junghoonghae/) <br/>
-or follow [@lucas_ghae](https://x.com/lucas_ghae) on X <br/>
-or mail [lucas.ghae@remodule.dev](mailto:lucas.ghae@remodule.dev)
+## Connect
+
+[![Email](https://img.shields.io/badge/-lucas.ghae%40remodule.dev-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lucas.ghae@remodule.dev)
+[![LinkedIn](https://img.shields.io/badge/-junghoonghae-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junghoonghae/)
+[![X](https://img.shields.io/badge/-%40lucas__ghae-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/lucas_ghae)
 
 <a href="https://www.buymeacoffee.com/lucas.ghae">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40">
 </a>
+
+<details>
+<summary>ㅤ</summary>
+
+
+> you clicked nothing and found something. now imagine doing that for a living.
+
+
+</details>
