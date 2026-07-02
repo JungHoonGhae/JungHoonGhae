@@ -69,11 +69,6 @@ building the next thing.
 
 <!-- [3/3] you read the whole thing. we should build something. -->
 
-```
-$ lucas --back-me
-open source, shipped weekly. fueled by people who get it.
-```
-
 <a href="https://github.com/sponsors/JungHoonGhae"><img src="assets/sponsor.svg" height="44" alt="Become a sponsor" /></a>
 
 <!-- sponsors:start -->
@@ -89,10 +84,6 @@ open source, shipped weekly. fueled by people who get it.
 [![Email](https://img.shields.io/badge/-lucas.ghae%40remodule.dev-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lucas.ghae@remodule.dev)
 [![LinkedIn](https://img.shields.io/badge/-junghoonghae-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junghoonghae/)
 [![X](https://img.shields.io/badge/-%40lucas__ghae-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/lucas_ghae)
-
-<a href="https://www.buymeacoffee.com/lucas.ghae">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40">
-</a>
 
 <details>
 <summary>ㅤ</summary>
