@@ -1,36 +1,38 @@
-# Software should have handles.
+# The apps are separate. The work isn't.
 
-**I build the command the product forgot to ship.**
+Finance, messages, shopping, and public data arrive as different products with different
+interfaces. For a person, they are often parts of one intent.
 
-A useful workflow can technically exist and still be impossible to grab: it is trapped behind a
-browser-only screen, an incomplete API, repetitive clicks, or a file nobody has opened yet.
+I'm building toward one open, inspectable system that can understand that intent, cross the
+boundaries between products, act through the services people already use, and show its work.
 
-I go one layer deeper and give it a handle—a small, inspectable CLI, MCP server, or native tool. A
-person can run it. An agent can call it. Both can verify what happened.
+I haven't found its final form yet. I'm building it from working parts, not a grand diagram. Each
+CLI, MCP server, and native tool solves a real problem on its own—and becomes an adapter for
+something larger.
 
-## The operating idea
+`blocked workflow → reliable tool → composable adapter → larger system`
 
-- Build against the system that exists, not the API you wish it had.
-- Login, permissions, files, and failure modes are part of the product.
-- People and agents should be able to use the same observable interface.
-- Ship the smallest end-to-end tool that is genuinely useful.
+## Where the pieces converge
 
-## Now
+- **Open Invest** *(in development)* — market data, screening, judgment, risk gates, and execution in one local, inspectable investing workspace; the first place where several adapters are becoming a system
+- **oddsock** *(preparing the public release)* — one ordinary question becomes datasets, inspected schemas, access applications, and first working API calls; a test of the same idea beyond finance
 
-**oddsock** *(preparing the public release)* — Korean public data is technically open. Using it
-still means guessing portal vocabulary, downloading files to discover their contents, applying for
-access, and wiring the first call by hand.
-
-`one ordinary question → datasets → inspected schemas → access → first real call`
-
-## Selected work
+## Working parts
 
 - **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** (490★) — one CLI and MCP server for 100% of Toss Securities' official Open API plus 55 capabilities previously trapped in the web app
 - **[openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli)** (120★) — send and read KakaoTalk locally on macOS, using Accessibility automation when recent builds broke server login
 - **[opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)** (41★) — add 342+ Kilo Gateway models to an existing OpenCode installation, without maintaining a separate fork
 
-They look unrelated. The method is the same: start with the blocked last mile, find the real system
-boundary, and make the whole path operable.
+They look unrelated. They are fieldwork for the same larger system.
+
+## How I get there
+
+**Software should have handles.** So I start small: with the command the product forgot to ship.
+
+- Build against the system that exists, not the API you wish it had.
+- Treat login, permissions, files, and failure modes as part of the product.
+- Keep every action observable for both people and agents.
+- Compose useful tools instead of hiding them inside a black box.
 
 ## Recently shipped
 
