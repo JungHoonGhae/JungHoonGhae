@@ -1,4 +1,4 @@
-name: Stars
+name: Live profile proof
 
 on:
   schedule:
@@ -18,13 +18,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Test star updater
-        run: python3 -m unittest tools/test_stars.py
+      - name: Test profile updaters
+        run: python3 -m unittest tools/test_stars.py tools/test_releases.py
 
       - name: Refresh star counts
         env:
           GH_TOKEN: ${{ github.token }}
         run: python3 tools/stars.py README.md
+
+      - name: Refresh recent releases
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 tools/releases.py README.md
 
       - name: Commit if changed
         run: |
@@ -32,5 +37,5 @@ jobs:
           git config user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
           git diff --cached --quiet && { echo "star counts are current"; exit 0; }
-          git commit -m "profile: refresh star counts [skip ci]"
+          git commit -m "profile: refresh live proof [skip ci]"
           git push origin HEAD:main

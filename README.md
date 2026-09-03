@@ -1,74 +1,60 @@
-<!-- [1/3] you opened the source. most people don't. -->
+# Software should have handles.
 
-![](https://komarev.com/ghpvc/?username=JungHoonGhae)
+**I build the command the product forgot to ship.**
 
-# I build the command the product forgot to ship.
+A useful workflow can technically exist and still be impossible to grab: it is trapped behind a
+browser-only screen, an incomplete API, repetitive clicks, or a file nobody has opened yet.
 
-I'm an independent open-source builder in Seoul. I turn the workflows products leave half-finished—
-browser-only screens, missing APIs, and repetitive clicks—into tools people and AI agents can use.
+I go one layer deeper and give it a handle—a small, inspectable CLI, MCP server, or native tool. A
+person can run it. An agent can call it. Both can verify what happened.
 
-Toss Securities from an AI agent. KakaoTalk from a terminal. An ordinary question turned into
-usable Korean public data.
+## The operating idea
 
-## Start Here
+- Build against the system that exists, not the API you wish it had.
+- Login, permissions, files, and failure modes are part of the product.
+- People and agents should be able to use the same observable interface.
+- Ship the smallest end-to-end tool that is genuinely useful.
 
-- 🏦 **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** (490★) — use Toss Securities from a terminal or AI agent, including workflows the official API leaves out
-- 💬 **[openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli)** (120★) — send and read KakaoTalk through local macOS automation, without server login
-- 🔌 **[opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)** (41★) — give OpenCode access to 342+ Kilo Gateway models
+## Now
 
-```diff
-$ git diff ~/.philosophy
-- plan for six months, ship nothing
-+ ship this week, iterate from there
-- wait for the perfect abstraction
-+ build with what you have now
-- add another layer of framework
-+ go one layer deeper
-- keep it closed, charge for the workaround
-+ open it up, let others build on it
-- "we need more meetings about this"
-+ just build the damn thing
-```
+**oddsock** *(preparing the public release)* — Korean public data is technically open. Using it
+still means guessing portal vocabulary, downloading files to discover their contents, applying for
+access, and wiring the first call by hand.
 
-<!-- [2/3] you're still here. interesting. -->
+`one ordinary question → datasets → inspected schemas → access → first real call`
 
-> [!WARNING]
-> "they mass produce walls. I mass produce doors." — me, probably
+## Selected work
 
-## Current Projects
+- **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** (490★) — one CLI and MCP server for 100% of Toss Securities' official Open API plus 55 capabilities previously trapped in the web app
+- **[openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli)** (120★) — send and read KakaoTalk locally on macOS, using Accessibility automation when recent builds broke server login
+- **[opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)** (41★) — add 342+ Kilo Gateway models to an existing OpenCode installation, without maintaining a separate fork
 
-### Trading & Commerce CLIs
+They look unrelated. The method is the same: start with the blocked last mile, find the real system
+boundary, and make the whole path operable.
 
-- 🏦 **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** (490★) — Toss Securities, official + unofficial coverage, auto-routes when a real API key is connected
-- 🛒 **[smartstore-cli](https://github.com/JungHoonGhae/smartstore-cli)** (23★) — Naver Smart Store seller center data access
+## Recently shipped
 
-### Messaging Automation
+<!-- releases:start -->
+- `2026-09-03` — [openkakao-cli v1.8.1](https://github.com/JungHoonGhae/openkakao-cli/releases/tag/v1.8.1)
+- `2026-09-02` — [tossinvest-cli v0.49.0](https://github.com/JungHoonGhae/tossinvest-cli/releases/tag/v0.49.0)
+- `2026-07-28` — [claude-statusline v1.7.0](https://github.com/JungHoonGhae/claude-statusline/releases/tag/v1.7.0)
+<!-- releases:end -->
 
-- 💬 **[openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli)** (120★) — KakaoTalk for macOS, login-free send/read via Accessibility automation
+<details>
+<summary><strong>More shipped tools</strong></summary>
 
-### AI Coding Agent Ecosystem
+- **[claude-statusline](https://github.com/JungHoonGhae/claude-statusline)** (33★) — a rich Claude Code statusline in pure Bash
+- **[smartstore-cli](https://github.com/JungHoonGhae/smartstore-cli)** (23★) — Naver Smart Store seller-center data from the terminal
+- **[tailbar](https://github.com/JungHoonGhae/tailbar)** (6★) — a native macOS menu bar for Tailscale serves, peers, and exit nodes
+- **[capacities-cli](https://github.com/JungHoonGhae/capacities-cli)** (5★) — unofficial full-CRUD access to Capacities.io
+- **[skills](https://github.com/JungHoonGhae/skills)** (4★) — reusable skills for Claude Code, OpenCode, and other coding agents
+- **[k-vote-cli](https://github.com/JungHoonGhae/k-vote-cli)** (3★) — reproducible Korean election data with no API key
 
-- 🔌 **[opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)** (41★) — OpenCode plugin for Kilo Gateway, 342+ models
-- 📟 **[claude-statusline](https://github.com/JungHoonGhae/claude-statusline)** (33★) — rich statusline for Claude Code, pure bash
-- 🧩 **[skills](https://github.com/JungHoonGhae/skills)** (4★) — agent skills for Claude Code, OpenCode, and other coding assistants
+</details>
 
-### Productivity Tools
+---
 
-- 🗂️ **[capacities-cli](https://github.com/JungHoonGhae/capacities-cli)** (5★) — unofficial full-CRUD CLI for Capacities.io
-
-### macOS Native Tools
-
-- 🌐 **[tailbar](https://github.com/JungHoonGhae/tailbar)** (6★) — Tailscale menu bar app, manage serves/peers/exit nodes without the terminal
-- 🏴‍☠️ **[captains-log](https://github.com/JungHoonGhae/captains-log)** — pirate-themed menu bar app that gamifies dev velocity, ship or die
-
-### Data & Civic Tech
-
-- 🔎 **[oddsock](https://github.com/JungHoonGhae/oddsock)** *(public release in progress)* — ask an everyday question; get the Korean public datasets, file schemas, access applications, and first API calls needed to test it
-- 🗳️ **[k-vote-cli](https://github.com/JungHoonGhae/k-vote-cli)** — 한국 선거 공개 데이터 접근성 CLI (NESDC 여론조사 · NEC 개표결과), 키리스·중립·재현가능
-
-<!-- [3/3] you read the whole thing. we should build something. -->
-
-<a href="https://github.com/sponsors/JungHoonGhae"><img src="assets/sponsor.svg" height="44" alt="Become a sponsor" /></a>
+<a href="https://github.com/sponsors/JungHoonGhae"><img src="assets/sponsor.svg" height="44" alt="Sponsor my open-source work" /></a>
 
 <!-- sponsors:start -->
 
@@ -76,19 +62,4 @@ $ git diff ~/.philosophy
 
 <!-- sponsors:end -->
 
----
-
-## Connect
-
-[![Email](https://img.shields.io/badge/-lucas.ghae%40remodule.dev-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lucas.ghae@remodule.dev)
-[![LinkedIn](https://img.shields.io/badge/-junghoonghae-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junghoonghae/)
-[![X](https://img.shields.io/badge/-%40lucas__ghae-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/lucas_ghae)
-
-<details>
-<summary>ㅤ</summary>
-
-
-> you clicked nothing and found something. now imagine doing that for a living.
-
-
-</details>
+Seoul · [Email](mailto:lucas.ghae@remodule.dev) · [LinkedIn](https://www.linkedin.com/in/junghoonghae/) · [X](https://x.com/lucas_ghae)
