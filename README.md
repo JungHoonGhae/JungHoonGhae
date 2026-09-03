@@ -2,25 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=JungHoonGhae)
 
-```
-$ whoami
-lucas (junghoon)
+# I build the command the product forgot to ship.
 
-$ problem
-"the system supports it."
+I'm an independent open-source builder in Seoul. I turn awkward, half-finished workflows into CLIs
+and MCP servers for people and AI agents.
 
-$ reality
-seven clicks, three logins, and one undocumented endpoint.
-
-$ work
-make the missing last mile runnable.
-```
-
-I'm an independent builder in Seoul. I turn services that technically exist—but are awkward to
-actually use—into open-source CLIs and MCP servers for people and AI agents.
-
-That usually means authenticated workflows, hidden web features, OS automation, and useful data
-stuck behind unfriendly interfaces.
+Toss Securities from an AI agent. KakaoTalk from a terminal. Korean public data from an ordinary
+question.
 
 ## Start Here
 
@@ -40,11 +28,6 @@ $ git diff ~/.philosophy
 + open it up, let others build on it
 - "we need more meetings about this"
 + just build the damn thing
-```
-
-```
-$ lucas --status
-turning "technically possible" into one command.
 ```
 
 <!-- [2/3] you're still here. interesting. -->
@@ -80,7 +63,7 @@ turning "technically possible" into one command.
 
 ### Data & Civic Tech
 
-- 🔎 **[oddsock](https://github.com/JungHoonGhae/oddsock)** *(preparing the public release)* — turn an everyday question into the Korean public datasets, files, access applications, and first API calls needed to test it
+- 🔎 **oddsock** *(public release in progress)* — turn an everyday question into the Korean public datasets, files, access applications, and first API calls needed to test it
 - 🗳️ **[k-vote-cli](https://github.com/JungHoonGhae/k-vote-cli)** — 한국 선거 공개 데이터 접근성 CLI (NESDC 여론조사 · NEC 개표결과), 키리스·중립·재현가능
 
 <!-- [3/3] you read the whole thing. we should build something. -->
