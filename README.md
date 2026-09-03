@@ -6,13 +6,27 @@
 $ whoami
 lucas (junghoon)
 
-$ focus
-the last mile between "the system supports it"
-and "a person can actually use it"
+$ problem
+"the system supports it."
+
+$ reality
+seven clicks, three logins, and one undocumented endpoint.
+
+$ work
+make the missing last mile runnable.
 ```
 
-I build open-source CLIs and MCP servers for the part the official interface leaves unfinished:
-authenticated workflows, hidden web features, OS automation, and agent-ready output.
+I'm an independent builder in Seoul. I turn services that technically exist—but are awkward to
+actually use—into open-source CLIs and MCP servers for people and AI agents.
+
+That usually means authenticated workflows, hidden web features, OS automation, and useful data
+stuck behind unfriendly interfaces.
+
+## Start Here
+
+- 🏦 **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** (490★) — use Toss Securities from a terminal or AI agent, including workflows the official API leaves out
+- 💬 **[openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli)** (120★) — send and read KakaoTalk through local macOS automation, without server login
+- 🔌 **[opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)** (41★) — give OpenCode access to 342+ Kilo Gateway models
 
 ```diff
 $ git diff ~/.philosophy
@@ -30,19 +44,13 @@ $ git diff ~/.philosophy
 
 ```
 $ lucas --status
-making the awkward part runnable.
+turning "technically possible" into one command.
 ```
 
 <!-- [2/3] you're still here. interesting. -->
 
 > [!WARNING]
 > "they mass produce walls. I mass produce doors." — me, probably
-
-## Start Here
-
-- 🏦 **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** (490★) — use Toss Securities from a terminal or AI agent, including workflows the official API leaves out
-- 💬 **[openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli)** (120★) — send and read KakaoTalk through local macOS automation, without server login
-- 🔌 **[opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)** (41★) — give OpenCode access to 342+ Kilo Gateway models
 
 ## Current Projects
 
