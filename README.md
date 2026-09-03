@@ -5,7 +5,14 @@
 ```
 $ whoami
 lucas (junghoon)
+
+$ focus
+the last mile between "the system supports it"
+and "a person can actually use it"
 ```
+
+I build open-source CLIs and MCP servers for the part the official interface leaves unfinished:
+authenticated workflows, hidden web features, OS automation, and agent-ready output.
 
 ```diff
 $ git diff ~/.philosophy
@@ -33,25 +40,25 @@ building the next thing.
 
 ## Start Here
 
-- 🏦 **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** (428★) — Toss Securities from your terminal or AI agent
-- 💬 **[openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli)** (104★) — KakaoTalk for macOS, login-free via Accessibility automation
-- 🔌 **[opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)** (38★) — OpenCode plugin for Kilo Gateway, 342+ models
+- 🏦 **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** (490★) — use Toss Securities from a terminal or AI agent, including workflows the official API leaves out
+- 💬 **[openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli)** (120★) — send and read KakaoTalk through local macOS automation, without server login
+- 🔌 **[opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)** (41★) — give OpenCode access to 342+ Kilo Gateway models
 
 ## Current Projects
 
 ### Trading & Commerce CLIs
 
-- 🏦 **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** (428★) — Toss Securities, official + unofficial coverage, auto-routes when a real API key is connected
-- 🛒 **[smartstore-cli](https://github.com/JungHoonGhae/smartstore-cli)** (22★) — Naver Smart Store seller center data access
+- 🏦 **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** (490★) — Toss Securities, official + unofficial coverage, auto-routes when a real API key is connected
+- 🛒 **[smartstore-cli](https://github.com/JungHoonGhae/smartstore-cli)** (23★) — Naver Smart Store seller center data access
 
 ### Messaging Automation
 
-- 💬 **[openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli)** (104★) — KakaoTalk for macOS, login-free send/read via Accessibility automation
+- 💬 **[openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli)** (120★) — KakaoTalk for macOS, login-free send/read via Accessibility automation
 
 ### AI Coding Agent Ecosystem
 
-- 🔌 **[opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)** (38★) — OpenCode plugin for Kilo Gateway, 342+ models
-- 📟 **[claude-statusline](https://github.com/JungHoonGhae/claude-statusline)** (31★) — rich statusline for Claude Code, pure bash
+- 🔌 **[opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)** (41★) — OpenCode plugin for Kilo Gateway, 342+ models
+- 📟 **[claude-statusline](https://github.com/JungHoonGhae/claude-statusline)** (33★) — rich statusline for Claude Code, pure bash
 - 🧩 **[skills](https://github.com/JungHoonGhae/skills)** (4★) — agent skills for Claude Code, OpenCode, and other coding assistants
 
 ### Productivity Tools
@@ -60,11 +67,12 @@ building the next thing.
 
 ### macOS Native Tools
 
-- 🌐 **[tailbar](https://github.com/JungHoonGhae/tailbar)** (5★) — Tailscale menu bar app, manage serves/peers/exit nodes without the terminal
+- 🌐 **[tailbar](https://github.com/JungHoonGhae/tailbar)** (6★) — Tailscale menu bar app, manage serves/peers/exit nodes without the terminal
 - 🏴‍☠️ **[captains-log](https://github.com/JungHoonGhae/captains-log)** — pirate-themed menu bar app that gamifies dev velocity, ship or die
 
 ### Data & Civic Tech
 
+- 🔎 **oddsock** *(preparing the public release)* — turn an everyday question into the Korean public datasets, files, access applications, and first API calls needed to test it
 - 🗳️ **[k-vote-cli](https://github.com/JungHoonGhae/k-vote-cli)** — 한국 선거 공개 데이터 접근성 CLI (NESDC 여론조사 · NEC 개표결과), 키리스·중립·재현가능
 
 <!-- [3/3] you read the whole thing. we should build something. -->
