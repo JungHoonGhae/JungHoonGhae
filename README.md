@@ -4,11 +4,11 @@
 
 # I build the command the product forgot to ship.
 
-I'm an independent open-source builder in Seoul. I turn awkward, half-finished workflows into CLIs
-and MCP servers for people and AI agents.
+I'm an independent open-source builder in Seoul. I turn the workflows products leave half-finished—
+browser-only screens, missing APIs, and repetitive clicks—into tools people and AI agents can use.
 
-Toss Securities from an AI agent. KakaoTalk from a terminal. Korean public data from an ordinary
-question.
+Toss Securities from an AI agent. KakaoTalk from a terminal. An ordinary question turned into
+usable Korean public data.
 
 ## Start Here
 
@@ -63,7 +63,7 @@ $ git diff ~/.philosophy
 
 ### Data & Civic Tech
 
-- 🔎 **oddsock** *(public release in progress)* — turn an everyday question into the Korean public datasets, files, access applications, and first API calls needed to test it
+- 🔎 **[oddsock](https://github.com/JungHoonGhae/oddsock)** *(public release in progress)* — ask an everyday question; get the Korean public datasets, file schemas, access applications, and first API calls needed to test it
 - 🗳️ **[k-vote-cli](https://github.com/JungHoonGhae/k-vote-cli)** — 한국 선거 공개 데이터 접근성 CLI (NESDC 여론조사 · NEC 개표결과), 키리스·중립·재현가능
 
 <!-- [3/3] you read the whole thing. we should build something. -->
