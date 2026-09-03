@@ -72,7 +72,7 @@ building the next thing.
 
 ### Data & Civic Tech
 
-- 🔎 **oddsock** *(preparing the public release)* — turn an everyday question into the Korean public datasets, files, access applications, and first API calls needed to test it
+- 🔎 **[oddsock](https://github.com/JungHoonGhae/oddsock)** *(preparing the public release)* — turn an everyday question into the Korean public datasets, files, access applications, and first API calls needed to test it
 - 🗳️ **[k-vote-cli](https://github.com/JungHoonGhae/k-vote-cli)** — 한국 선거 공개 데이터 접근성 CLI (NESDC 여론조사 · NEC 개표결과), 키리스·중립·재현가능
 
 <!-- [3/3] you read the whole thing. we should build something. -->
