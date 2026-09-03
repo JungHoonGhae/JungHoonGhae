@@ -20,7 +20,7 @@ control away from the person.
 
 ### Selected work
 
-- **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** (490★) — one CLI and MCP server for 100% of Toss Securities' official Open API plus 55 capabilities previously trapped in the web app
+- **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** (491★) — one CLI and MCP server for 100% of Toss Securities' official Open API plus 55 capabilities previously trapped in the web app
 - **[openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli)** (120★) — send and read KakaoTalk locally on macOS, using Accessibility automation when recent builds broke server login
 - **[opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)** (41★) — add 342+ Kilo Gateway models to an existing OpenCode installation, without maintaining a separate fork
 
