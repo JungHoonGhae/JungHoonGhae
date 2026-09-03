@@ -1,40 +1,40 @@
-# The apps are separate. The work isn't.
+### A model's training has a cutoff. The world doesn't.
 
-Finance, messages, shopping, and public data arrive as different products with different
-interfaces. For a person, they are often parts of one intent.
+What closes that gap is access: live data, real services, and interfaces AI can actually use.
 
-I'm building toward one open, inspectable system that can understand that intent, cross the
-boundaries between products, act through the services people already use, and show its work.
+I believe today's scattered interfaces will eventually converge around intent. A person should be
+able to state an intent once; the right systems should find current data, take the right action,
+and make the result verifiable.
 
-I haven't found its final form yet. I'm building it from working parts, not a grand diagram. Each
-CLI, MCP server, and native tool solves a real problem on its own—and becomes an adapter for
-something larger.
+We are not there yet. Useful data and actions are still scattered across separate apps,
+browser-only screens, incomplete APIs, downloaded files, and logins designed only for people.
 
-`blocked workflow → reliable tool → composable adapter → larger system`
+My work explores how to close that gap. I build open-source CLIs, MCP servers, and local tools that
+make real systems more accessible to both people and AI—without hiding what happened or taking
+control away from the person.
 
-## Where the pieces converge
+### Current explorations
 
-- **Open Invest** *(in development)* — market data, screening, judgment, risk gates, and execution in one local, inspectable investing workspace; the first place where several adapters are becoming a system
-- **oddsock** *(preparing the public release)* — one ordinary question becomes datasets, inspected schemas, access applications, and first working API calls; a test of the same idea beyond finance
+- **oddsock** *(preparing the public release)* — can an everyday question reach beyond a model's knowledge cutoff to the right Korean public datasets, inspect their actual file schemas, complete API access applications, and make the first working calls?
+- **Open Invest** *(in development)* — can live market data, judgment, risk gates, and execution share one local, inspectable workflow?
 
-## Working parts
+### Selected work
 
 - **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** (490★) — one CLI and MCP server for 100% of Toss Securities' official Open API plus 55 capabilities previously trapped in the web app
 - **[openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli)** (120★) — send and read KakaoTalk locally on macOS, using Accessibility automation when recent builds broke server login
 - **[opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)** (41★) — add 342+ Kilo Gateway models to an existing OpenCode installation, without maintaining a separate fork
 
-They look unrelated. They are fieldwork for the same larger system.
+Different domains, same concern: can an AI reach the current system, complete the real workflow,
+and show exactly what happened?
 
-## How I get there
+### What I care about
 
-**Software should have handles.** So I start small: with the command the product forgot to ship.
+- Live data over confident guesses.
+- Complete workflows, not demo endpoints.
+- Interfaces people and agents can both use and inspect.
+- Local control and explicit safety when actions matter.
 
-- Build against the system that exists, not the API you wish it had.
-- Treat login, permissions, files, and failure modes as part of the product.
-- Keep every action observable for both people and agents.
-- Compose useful tools instead of hiding them inside a black box.
-
-## Recently shipped
+### Recently shipped
 
 <!-- releases:start -->
 - `2026-09-03` — [openkakao-cli v1.8.1](https://github.com/JungHoonGhae/openkakao-cli/releases/tag/v1.8.1)
