@@ -30,7 +30,7 @@ $ git diff ~/.philosophy
 
 ```
 $ lucas --status
-building the next thing.
+making the awkward part runnable.
 ```
 
 <!-- [2/3] you're still here. interesting. -->
