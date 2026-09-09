@@ -20,7 +20,7 @@ control away from the person.
 
 ### Selected work
 
-- **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** (493★) — one CLI and MCP server for 100% of Toss Securities' official Open API plus 55 capabilities previously trapped in the web app
+- **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** (492★) — one CLI and MCP server for 100% of Toss Securities' official Open API plus 55 capabilities previously trapped in the web app
 - **[openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli)** (122★) — send and read KakaoTalk locally on macOS, using Accessibility automation when recent builds broke server login
 - **[opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)** (42★) — add 342+ Kilo Gateway models to an existing OpenCode installation, without maintaining a separate fork
 
@@ -37,7 +37,7 @@ and show exactly what happened?
 ### Recently shipped
 
 <!-- releases:start -->
-- `2026-09-07` — [tossinvest-cli v0.50.2](https://github.com/JungHoonGhae/tossinvest-cli/releases/tag/v0.50.2)
+- `2026-09-08` — [tossinvest-cli v0.50.3](https://github.com/JungHoonGhae/tossinvest-cli/releases/tag/v0.50.3)
 - `2026-09-03` — [openkakao-cli v1.8.1](https://github.com/JungHoonGhae/openkakao-cli/releases/tag/v1.8.1)
 - `2026-07-28` — [claude-statusline v1.7.0](https://github.com/JungHoonGhae/claude-statusline/releases/tag/v1.7.0)
 <!-- releases:end -->
@@ -47,7 +47,7 @@ and show exactly what happened?
 
 - **[claude-statusline](https://github.com/JungHoonGhae/claude-statusline)** (33★) — a rich Claude Code statusline in pure Bash
 - **[smartstore-cli](https://github.com/JungHoonGhae/smartstore-cli)** (23★) — Naver Smart Store seller-center data from the terminal
-- **[tailbar](https://github.com/JungHoonGhae/tailbar)** (6★) — a native macOS menu bar for Tailscale serves, peers, and exit nodes
+- **[tailbar](https://github.com/JungHoonGhae/tailbar)** (7★) — a native macOS menu bar for Tailscale serves, peers, and exit nodes
 - **[capacities-cli](https://github.com/JungHoonGhae/capacities-cli)** (5★) — unofficial full-CRUD access to Capacities.io
 - **[skills](https://github.com/JungHoonGhae/skills)** (4★) — reusable skills for Claude Code, OpenCode, and other coding agents
 - **[k-vote-cli](https://github.com/JungHoonGhae/k-vote-cli)** (3★) — reproducible Korean election data with no API key
