@@ -1,40 +1,46 @@
-### A model's training has a cutoff. The world doesn't.
+# Hey, I'm Lucas 👋
 
-What closes that gap is access: live data, real services, and interfaces AI can actually use.
+Junghoon Ghae · Seoul, South Korea.
 
-I believe today's scattered interfaces will eventually converge around intent. A person should be
-able to state an intent once; the right systems should find current data, take the right action,
-and make the result verifiable.
+I build open-source CLIs, MCP servers, and local tools that connect AI to live data and real services — with people in control.
 
-We are not there yet. Useful data and actions are still scattered across separate apps,
-browser-only screens, incomplete APIs, downloaded files, and logins designed only for people.
+<p align="center">
+  <a href="https://github.com/JungHoonGhae?tab=overview">
+    <img src="https://ghchart.rshah.org/JungHoonGhae" alt="Lucas's GitHub contribution heatmap" />
+  </a>
+</p>
 
-My work explores how to close that gap. I build open-source CLIs, MCP servers, and local tools that
-make real systems more accessible to both people and AI—without hiding what happened or taking
-control away from the person.
+## Why I build
 
-### Current explorations
+**A model's training has a cutoff. The world doesn't.**
 
-- **oddsock** *(preparing the public release)* — can an everyday question reach beyond a model's knowledge cutoff to the right Korean public datasets, inspect their actual file schemas, complete API access applications, and make the first working calls?
-- **Open Invest** *(in development)* — can live market data, judgment, risk gates, and execution share one local, inspectable workflow?
+Useful data and actions are still scattered across apps, browser-only screens, and incomplete APIs. I build interfaces that help people and AI reach those systems, finish real tasks, and verify what happened.
 
-### Selected work
+## What I've built
 
-- **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** (494★) — one CLI and MCP server for 100% of Toss Securities' official Open API plus 55 capabilities previously trapped in the web app
-- **[openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli)** (122★) — send and read KakaoTalk locally on macOS, using Accessibility automation when recent builds broke server login
-- **[opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)** (42★) — add 342+ Kilo Gateway models to an existing OpenCode installation, without maintaining a separate fork
+- **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** ![GitHub stars](https://img.shields.io/github/stars/JungHoonGhae/tossinvest-cli?style=flat&color=gold) — Unofficial Toss Securities CLI and MCP server. Accounts, quotes, and orders, plus web-only data such as investor flows, AI signals, and dividends.
+- **[openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli)** ![GitHub stars](https://img.shields.io/github/stars/JungHoonGhae/openkakao-cli?style=flat&color=gold) — Unofficial KakaoTalk CLI for sending and reading messages locally on macOS through Accessibility automation.
+- **[opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)** ![GitHub stars](https://img.shields.io/github/stars/JungHoonGhae/opencode-kilo-auth?style=flat&color=gold) — Use Kilo Gateway models in your existing OpenCode setup.
+- **[claude-statusline](https://github.com/JungHoonGhae/claude-statusline)** ![GitHub stars](https://img.shields.io/github/stars/JungHoonGhae/claude-statusline?style=flat&color=gold) — A rich statusline for Claude Code, written in pure Bash.
+- **[smartstore-cli](https://github.com/JungHoonGhae/smartstore-cli)** ![GitHub stars](https://img.shields.io/github/stars/JungHoonGhae/smartstore-cli?style=flat&color=gold) — Naver Smart Store seller-center data from the terminal.
+- **[tailbar](https://github.com/JungHoonGhae/tailbar)** ![GitHub stars](https://img.shields.io/github/stars/JungHoonGhae/tailbar?style=flat&color=gold) — A native macOS menu bar app for Tailscale serves, peers, and exit nodes.
+- **[capacities-cli](https://github.com/JungHoonGhae/capacities-cli)** ![GitHub stars](https://img.shields.io/github/stars/JungHoonGhae/capacities-cli?style=flat&color=gold) — Unofficial CLI for managing your Capacities.io knowledge base.
+- **[skills](https://github.com/JungHoonGhae/skills)** ![GitHub stars](https://img.shields.io/github/stars/JungHoonGhae/skills?style=flat&color=gold) — Reusable skills for Claude Code, OpenCode, and other coding agents.
+- **[k-vote-cli](https://github.com/JungHoonGhae/k-vote-cli)** ![GitHub stars](https://img.shields.io/github/stars/JungHoonGhae/k-vote-cli?style=flat&color=gold) — Korean election results, polls, and turnout from the CLI or MCP, with no API key.
 
-Different domains, same concern: can an AI reach the current system, complete the real workflow,
-and show exactly what happened?
+## Exploring now
 
-### What I care about
+- **oddsock** *(preparing the public release)* — Connecting everyday questions to Korean public datasets, from discovering schemas to making the first working API call.
+- **Open Invest** *(in development)* — Bringing live market data, judgment, risk checks, and execution into one local workflow you can inspect.
 
-- Live data over confident guesses.
-- Complete workflows, not demo endpoints.
-- Interfaces people and agents can both use and inspect.
-- Local control and explicit safety when actions matter.
+## Open-source contributions
 
-### Recently shipped
+- **[Raycast](https://github.com/raycast/extensions/pull/10263)** — Added the Read AI extension.
+- **[Clerk](https://github.com/clerk/javascript/pull/1630)** — Improved Korean translations for organization and domain settings.
+- **[Kilo](https://github.com/Kilo-Org/kilo/pull/319)** — Documented the MCP configuration file path.
+- **[swarm-tools](https://github.com/joelhooks/swarm-tools/pull/115)** — Fixed the global skills directory path in `swarm doctor`.
+
+## Recently shipped
 
 <!-- releases:start -->
 - `2026-09-08` — [tossinvest-cli v0.50.3](https://github.com/JungHoonGhae/tossinvest-cli/releases/tag/v0.50.3)
@@ -42,17 +48,11 @@ and show exactly what happened?
 - `2026-07-28` — [claude-statusline v1.7.0](https://github.com/JungHoonGhae/claude-statusline/releases/tag/v1.7.0)
 <!-- releases:end -->
 
-<details>
-<summary><strong>More shipped tools</strong></summary>
+## Connect
 
-- **[claude-statusline](https://github.com/JungHoonGhae/claude-statusline)** (33★) — a rich Claude Code statusline in pure Bash
-- **[smartstore-cli](https://github.com/JungHoonGhae/smartstore-cli)** (23★) — Naver Smart Store seller-center data from the terminal
-- **[tailbar](https://github.com/JungHoonGhae/tailbar)** (7★) — a native macOS menu bar for Tailscale serves, peers, and exit nodes
-- **[capacities-cli](https://github.com/JungHoonGhae/capacities-cli)** (5★) — unofficial full-CRUD access to Capacities.io
-- **[skills](https://github.com/JungHoonGhae/skills)** (4★) — reusable skills for Claude Code, OpenCode, and other coding agents
-- **[k-vote-cli](https://github.com/JungHoonGhae/k-vote-cli)** (3★) — reproducible Korean election data with no API key
-
-</details>
+[![X](https://img.shields.io/badge/X-%40lucas__ghae-000000?style=flat&logo=x&logoColor=white)](https://x.com/lucas_ghae)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Junghoon%20Ghae-0A66C2?style=flat)](https://www.linkedin.com/in/junghoonghae/)
+[![Email](https://img.shields.io/badge/Email-lucas.ghae%40remodule.dev-555555?style=flat&logo=gmail&logoColor=white)](mailto:lucas.ghae@remodule.dev)
 
 ---
 
@@ -63,5 +63,3 @@ and show exactly what happened?
 <sub>backed by <a href="https://github.com/sponsors/JungHoonGhae" title="비공개 후원자 / private sponsor"><img src="assets/anonymous.svg" width="22" height="22" alt="private sponsor" /></a> · <strong>1</strong> sponsor so far (one-time included). be the next.</sub>
 
 <!-- sponsors:end -->
-
-Seoul · [Email](mailto:lucas.ghae@remodule.dev) · [LinkedIn](https://www.linkedin.com/in/junghoonghae/) · [X](https://x.com/lucas_ghae)
