@@ -40,7 +40,7 @@ Useful data and actions are still scattered across apps, browser-only screens, a
 ## Recently shipped
 
 <!-- releases:start -->
-- `2026-09-08` — [tossinvest-cli v0.50.3](https://github.com/JungHoonGhae/tossinvest-cli/releases/tag/v0.50.3)
+- `2026-09-10` — [tossinvest-cli v0.51.0](https://github.com/JungHoonGhae/tossinvest-cli/releases/tag/v0.51.0)
 - `2026-09-03` — [openkakao-cli v1.8.1](https://github.com/JungHoonGhae/openkakao-cli/releases/tag/v1.8.1)
 - `2026-07-28` — [claude-statusline v1.7.0](https://github.com/JungHoonGhae/claude-statusline/releases/tag/v1.7.0)
 <!-- releases:end -->
