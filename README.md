@@ -35,10 +35,7 @@ Useful data and actions are still scattered across apps, browser-only screens, a
 
 ## Open-source contributions
 
-- **[Raycast](https://github.com/raycast/extensions/pull/10263)** — Added the Read AI extension.
-- **[Clerk](https://github.com/clerk/javascript/pull/1630)** — Improved Korean translations for organization and domain settings.
-- **[Kilo](https://github.com/Kilo-Org/kilo/pull/319)** — Documented the MCP configuration file path.
-- **[swarm-tools](https://github.com/joelhooks/swarm-tools/pull/115)** — Fixed the global skills directory path in `swarm doctor`.
+[Raycast](https://github.com/raycast/extensions) · [Clerk](https://github.com/clerk/javascript) · [Kilo](https://github.com/Kilo-Org/kilo) · [swarm-tools](https://github.com/joelhooks/swarm-tools)
 
 ## Recently shipped
 
