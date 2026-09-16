@@ -18,6 +18,7 @@ Useful data and actions are still scattered across apps, browser-only screens, a
 
 ## What I've built
 
+- **[odeduck](https://github.com/JungHoonGhae/odeduck)** ![GitHub stars](https://img.shields.io/github/stars/JungHoonGhae/odeduck?style=flat&color=gold) — CLI and MCP server for Korean public data. Helps AI agents find datasets, apply for API access, and collect and analyze data with source evidence.
 - **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** ![GitHub stars](https://img.shields.io/github/stars/JungHoonGhae/tossinvest-cli?style=flat&color=gold) — Unofficial Toss Securities CLI and MCP server. Accounts, quotes, and orders, plus web-only data such as investor flows, AI signals, and dividends.
 - **[openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli)** ![GitHub stars](https://img.shields.io/github/stars/JungHoonGhae/openkakao-cli?style=flat&color=gold) — Unofficial KakaoTalk CLI for sending and reading messages locally on macOS through Accessibility automation.
 - **[opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)** ![GitHub stars](https://img.shields.io/github/stars/JungHoonGhae/opencode-kilo-auth?style=flat&color=gold) — Use Kilo Gateway models in your existing OpenCode setup.
@@ -30,7 +31,6 @@ Useful data and actions are still scattered across apps, browser-only screens, a
 
 ## Exploring now
 
-- **oddsock** *(preparing the public release)* — Connecting everyday questions to Korean public datasets, from discovering schemas to making the first working API call.
 - **Open Invest** *(in development)* — Bringing live market data, judgment, risk checks, and execution into one local workflow you can inspect.
 
 ## Open-source contributions
