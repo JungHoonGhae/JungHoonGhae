@@ -40,9 +40,9 @@ Useful data and actions are still scattered across apps, browser-only screens, a
 ## Recently shipped
 
 <!-- releases:start -->
-- `2026-09-16` — [odeduck v0.21.1](https://github.com/JungHoonGhae/odeduck/releases/tag/v0.21.1)
+- `2026-09-20` — [odeduck v0.21.2](https://github.com/JungHoonGhae/odeduck/releases/tag/v0.21.2)
+- `2026-09-20` — [openkakao-cli v1.8.2](https://github.com/JungHoonGhae/openkakao-cli/releases/tag/v1.8.2)
 - `2026-09-15` — [tossinvest-cli v0.52.1](https://github.com/JungHoonGhae/tossinvest-cli/releases/tag/v0.52.1)
-- `2026-09-03` — [openkakao-cli v1.8.1](https://github.com/JungHoonGhae/openkakao-cli/releases/tag/v1.8.1)
 <!-- releases:end -->
 
 ## Connect
