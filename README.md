@@ -20,7 +20,7 @@ Useful data and actions are still scattered across apps, browser-only screens, a
 
 - **[odeduck](https://github.com/JungHoonGhae/odeduck)** ![GitHub stars](https://img.shields.io/github/stars/JungHoonGhae/odeduck?style=flat&color=gold) — CLI and MCP server for Korean public data. Helps AI agents find datasets, apply for API access, and collect and analyze data with source evidence.
 - **[tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli)** ![GitHub stars](https://img.shields.io/github/stars/JungHoonGhae/tossinvest-cli?style=flat&color=gold) — Unofficial Toss Securities CLI and MCP server. Accounts, quotes, and orders, plus web-only data such as investor flows, AI signals, and dividends.
-- **[openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli)** ![GitHub stars](https://img.shields.io/github/stars/JungHoonGhae/openkakao-cli?style=flat&color=gold) — Unofficial KakaoTalk CLI for sending and reading messages locally on macOS through Accessibility automation.
+- **[openkakao-cli](https://github.com/JungHoonGhae/openkakao-cli)** ![GitHub stars](https://img.shields.io/github/stars/JungHoonGhae/openkakao-cli?style=flat&color=gold) — KakaoTalk CLI for macOS and AI agents: send, read, react, search, back up and clean up chats locally.
 - **[opencode-kilo-auth](https://github.com/JungHoonGhae/opencode-kilo-auth)** ![GitHub stars](https://img.shields.io/github/stars/JungHoonGhae/opencode-kilo-auth?style=flat&color=gold) — Use Kilo Gateway models in your existing OpenCode setup.
 - **[claude-statusline](https://github.com/JungHoonGhae/claude-statusline)** ![GitHub stars](https://img.shields.io/github/stars/JungHoonGhae/claude-statusline?style=flat&color=gold) — A rich statusline for Claude Code, written in pure Bash.
 - **[smartstore-cli](https://github.com/JungHoonGhae/smartstore-cli)** ![GitHub stars](https://img.shields.io/github/stars/JungHoonGhae/smartstore-cli?style=flat&color=gold) — Naver Smart Store seller-center data from the terminal.
@@ -35,7 +35,11 @@ Useful data and actions are still scattered across apps, browser-only screens, a
 
 ## Open-source contributions
 
-[Raycast](https://github.com/raycast/extensions) · [Clerk](https://github.com/clerk/javascript) · [Kilo](https://github.com/Kilo-Org/kilo) · [swarm-tools](https://github.com/joelhooks/swarm-tools)
+- **[itsaplan](https://github.com/croffasia/itsaplan)** — self-hosted project tracker where teams and AI agents work side by side. 12 merged PRs: Web Push and desktop notifications, inbox notifications as MCP tools, an opt-in MCP catalog mode, private Docs sharing, a Docs home, and comment reactions.
+- **[Raycast](https://github.com/raycast/extensions)** — added and maintained the Read AI extension.
+- **[Clerk](https://github.com/clerk/javascript)** — Korean localization for account and organization settings.
+- **[Kilo](https://github.com/Kilo-Org/kilo)** — documented the MCP config file path.
+- **[swarm-tools](https://github.com/joelhooks/swarm-tools)** — fixed the global skills directory path in `swarm doctor`.
 
 ## Recently shipped
 
